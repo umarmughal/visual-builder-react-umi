@@ -6,4 +6,4 @@ package.json
 .umi
 .umi-production
 .umi-test
-/src/components/kit/vendors/antd/themes
+/src/@vb/css/vendors/antd/themes

@@ -1,4 +1,4 @@
-@import '@/components/mixins.scss';
+@import '@/mixins.scss';
 
 .container {
   width: 100%;
@@ -20,16 +20,11 @@
   }
 }
 
-.containerInner {
-  max-width: 32rem;
-  width: 100%;
-}
-
 .topbar {
   height: rem(64);
   border-bottom: 1px solid $border;
   background: $white;
-  margin-bottom: 7vh;
+  margin-bottom: rem(40);
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -55,6 +50,47 @@
     height: rem(24);
     white-space: nowrap;
     width: 100%;
+
+    svg {
+      margin-right: rem(6);
+      height: rem(30);
+      width: rem(30);
+      path:nth-child(1) {
+        stroke: $primary;
+        fill: $primary;
+        stroke-width: 1px;
+        animation: logoAnimate 6s ease-in-out infinite;
+      }
+      path:nth-child(2) {
+        stroke: $primary;
+        fill: $primary;
+        stroke-width: 1px;
+        animation: logoAnimate 6s ease-in-out infinite;
+        animation-delay: 2s;
+      }
+      path:nth-child(3) {
+        stroke: $primary;
+        fill: $primary;
+        stroke-width: 1px;
+        animation: logoAnimate 6s ease-in-out infinite;
+        animation-delay: 4s;
+      }
+
+      @keyframes logoAnimate {
+        0% {
+          stroke: $primary;
+          fill: $primary;
+        }
+        50% {
+          stroke: #1ad697;
+          fill: #1ad697;
+        }
+        100% {
+          stroke: $primary;
+          fill: $primary;
+        }
+      }
+    }
   }
   .name {
     font-size: rem(20);
@@ -83,7 +119,7 @@
 }
 
 // dark theme
-[data-kit-theme='dark'] {
+[data-vb-theme='dark'] {
   .container {
     background: transparent !important;
   }

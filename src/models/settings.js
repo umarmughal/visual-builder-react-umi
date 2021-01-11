@@ -1,9 +1,9 @@
 import store from 'store'
 import qs from 'qs'
 
-const STORED_SETTINGS = storedSettings => {
+const STORED_SETTINGS = (storedSettings) => {
   const settings = {}
-  Object.keys(storedSettings).forEach(key => {
+  Object.keys(storedSettings).forEach((key) => {
     const item = store.get(`app.settings.${key}`)
     settings[key] = typeof item !== 'undefined' ? item : storedSettings[key]
   })
@@ -14,24 +14,31 @@ export default {
   namespace: 'settings',
   state: {
     ...STORED_SETTINGS({
-      authProvider: 'firebase', // firebase, jwt
-      logo: 'Clean UI Pro',
+      // Read docs for available values: https://docs.visualbuilder.cloud
+      // VB:REPLACE-START:SETTINGS
+      authProvider: 'jwt', // firebase, jwt
+      logo: 'Visual Builder',
+      version: 'fluent', // fluent, clean, air
+      theme: 'default', // default, dark
       // locale: 'en-US',
       isSidebarOpen: false,
       isSupportChatOpen: false,
       isMobileView: false,
       isMobileMenuOpen: false,
       isMenuCollapsed: false,
-      menuLayoutType: 'left', // left, top, nomenu
+      isPreselectedOpen: false,
+      preselectedVariant: 'default',
+      menuLayoutType: 'left', // left, top
       routerAnimation: 'slide-fadein-up', // none, slide-fadein-up, slide-fadein-right, fadein, zoom-fadein
-      menuColor: 'white', // white, dark, gray
-      theme: 'default', // default, dark
-      authPagesColor: 'white', // white, gray, image
+      menuColor: 'gray', // white, dark, gray
+      authPagesColor: 'gray', // white, gray, image
+      isAuthTopbar: true,
       primaryColor: '#4b7cf3',
       leftMenuWidth: 256,
       isMenuUnfixed: false,
       isMenuShadow: false,
       isTopbarFixed: false,
+      isTopbarSeparated: false,
       isGrayTopbar: false,
       isContentMaxWidth: false,
       isAppMaxWidth: false,
@@ -39,6 +46,14 @@ export default {
       isCardShadow: true,
       isSquaredBorders: false,
       isBorderless: false,
+      layoutMenu: 'classic', // classic, flyout, simply
+      layoutTopbar: 'v1', // v1
+      layoutBreadcrumbs: 'v1', // v1, v2
+      layoutFooter: 'v1', // v1, v2, v3, v4
+      flyoutMenuType: 'flyout', // flyout, default, compact
+      flyoutMenuColor: 'blue', // dark, blue, gray, white
+
+      // VB:REPLACE-END:SETTINGS
     }),
   },
   reducers: {
@@ -92,9 +107,9 @@ export default {
   subscriptions: {
     setup: ({ dispatch, history }) => {
       // load settings from url on app load
-      const changeSettings = search => {
+      const changeSettings = (search) => {
         const query = qs.parse(search, { ignoreQueryPrefix: true })
-        Object.keys(query).forEach(key => {
+        Object.keys(query).forEach((key) => {
           let value
           switch (query[key]) {
             case 'false':
@@ -126,7 +141,7 @@ export default {
         })
       }
       changeSettings(history.location.search)
-      history.listen(params => {
+      history.listen((params) => {
         const { search } = params
         changeSettings(search)
       })

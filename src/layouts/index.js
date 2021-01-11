@@ -1,17 +1,14 @@
-import 'antd/lib/style/index.less' // antd core styles
-import '@/components/kit/vendors/antd/themes/default.less' // default theme antd components
-import '@/components/kit/vendors/antd/themes/dark.less' // dark theme antd components
-import '@/layouts/global.scss' // dark theme antd components
-
-import React, { Fragment } from 'react'
+import React from 'react'
 import { withRouter, Redirect } from 'react-router-dom'
 import { connect } from 'react-redux'
 import NProgress from 'nprogress'
 import { Helmet } from 'react-helmet'
-// import Loader from '@/components/cleanui/layout/Loader'
+
 import PublicLayout from './Public'
 import AuthLayout from './Auth'
 import MainLayout from './Main'
+
+import StylesLoader from './stylesLoader'
 
 const Layouts = {
   public: PublicLayout,
@@ -19,10 +16,10 @@ const Layouts = {
   main: MainLayout,
 }
 
-const mapStateToProps = ({ user }) => ({ user })
+const mapStateToProps = ({ user, settings }) => ({ user, title: settings.logo })
 let previousPath = ''
 
-const Layout = ({ user, children, location: { pathname, search } }) => {
+const Layout = ({ user, children, title, location: { pathname, search } }) => {
   // NProgress & ScrollTop Management
   const currentPath = pathname + search
   if (currentPath !== previousPath) {
@@ -64,10 +61,10 @@ const Layout = ({ user, children, location: { pathname, search } }) => {
   }
 
   return (
-    <Fragment>
-      <Helmet titleTemplate="Clean UI Pro React | %s" title="React Admin Template" />
+    <StylesLoader>
+      <Helmet titleTemplate={`${title} | %s`} title={title} />
       {BootstrappedLayout()}
-    </Fragment>
+    </StylesLoader>
   )
 }
 

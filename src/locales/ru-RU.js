@@ -1,6 +1,6 @@
 export default {
-  'topBar.issuesHistory': 'История заданий',
-  'topBar.projectManagement': 'Управление проектом',
+  'topBar.issuesHistory': 'Задания',
+  'topBar.projectManagement': 'Проекты',
   'topBar.typeToSearch': 'Поиск...',
   'topBar.findPages': 'Поиск страниц...',
   'topBar.actions': 'Действия',

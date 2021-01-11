@@ -1,6 +1,6 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
-import Login from '@/components/cleanui/system/Auth/Login'
+import Login from '@/@vb/components/Auth/Login'
 
 const SystemLogin = () => {
   return (

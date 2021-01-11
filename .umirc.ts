@@ -12,5 +12,5 @@ export default defineConfig({
     baseNavigator: true,
     title: false,
   },
-  antd: false, // antd styles loads via less imports in src/layouts/index.js
+  antd: false, // antd styles loads via less imports in src/styleLoader.js
 })

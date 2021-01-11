@@ -3,6 +3,17 @@ import { notification } from 'antd'
 import * as firebase from '@/services/firebase'
 import * as jwt from '@/services/jwt'
 
+const DEV = process.env.REACT_APP_AUTHENTICATED
+  ? {
+      id: '1',
+      name: 'Tom Jones',
+      role: 'admin',
+      email: 'demo@sellpixels.com',
+      avatar: '',
+      authorized: true,
+    }
+  : {}
+
 const mapAuthProviders = {
   firebase: {
     login: firebase.login,
@@ -26,8 +37,9 @@ export default {
     role: '',
     email: '',
     avatar: '',
-    authorized: process.env.REACT_APP_AUTHENTICATED || false, // false is default value
+    authorized: false,
     loading: false,
+    ...DEV, // remove it, used for demo build
   },
   reducers: {
     SET_STATE: (state, { payload }) => ({ ...state, ...payload }),
@@ -41,7 +53,7 @@ export default {
           loading: true,
         },
       })
-      const { authProvider: autProviderName } = yield select(state => state.settings)
+      const { authProvider: autProviderName } = yield select((state) => state.settings)
       const success = yield call(mapAuthProviders[autProviderName].login, email, password)
       if (success) {
         yield put({
@@ -70,7 +82,7 @@ export default {
           loading: true,
         },
       })
-      const { authProvider } = yield select(state => state.settings)
+      const { authProvider } = yield select((state) => state.settings)
       const success = yield call(mapAuthProviders[authProvider].register, email, password, name)
       if (success) {
         yield put({
@@ -98,7 +110,7 @@ export default {
           loading: true,
         },
       })
-      const { authProvider } = yield select(state => state.settings)
+      const { authProvider } = yield select((state) => state.settings)
       const response = yield call(mapAuthProviders[authProvider].currentAccount)
       if (response) {
         const { id, email, name, avatar, role } = response
@@ -122,7 +134,7 @@ export default {
       })
     },
     *LOGOUT(_, { put, call, select }) {
-      const { authProvider } = yield select(state => state.settings)
+      const { authProvider } = yield select((state) => state.settings)
       yield call(mapAuthProviders[authProvider].logout)
       yield put({
         type: 'SET_STATE',

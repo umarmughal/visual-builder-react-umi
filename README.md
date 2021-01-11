@@ -1,8 +1,9 @@
-### Clean UI Pro React (UmiJS) Admin Template Preview ###
-https://react.cleanui.cloud
+### Visual Builder React (create-react-app) ###
+* https://react.visualbuilder.cloud/
+* https://umijs.org/
 
 ### Documentation ###
-Please read documentation here https://docs.sellpixels.com
+Please read documentation here https://docs.visualbuilder.cloud
 
 ### Quick Start ###
 * Install node.js: https://nodejs.org​
@@ -11,5 +12,9 @@ Please read documentation here https://docs.sellpixels.com
 * Run the app `yarn start`
 * Or build production app `yarn build`
 
+### Full Preview Pages / Import Config ###
+* Run vb-cli by `yarn vb`
+* Select full preview version, this will generate all pages from demo preview
+
 ### Support ###
-Use GitHub Issues for tracking bugs and creating new feature requests or write to [support@sellpixels.com](mailto:support@sellpixels.com).
+Use GitHub Issues for tracking bugs and creating new feature requests.

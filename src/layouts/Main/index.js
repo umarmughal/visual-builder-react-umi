@@ -1,17 +1,28 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Layout } from 'antd'
 import { connect } from 'react-redux'
 import { withRouter } from 'react-router-dom'
 import classNames from 'classnames'
-import TopBar from '@/components/cleanui/layout/TopBar'
-import Breadcrumbs from '@/components/cleanui/layout/Breadcrumbs'
-import Menu from '@/components/cleanui/layout/Menu'
-import Footer from '@/components/cleanui/layout/Footer'
-import Sidebar from '@/components/cleanui/layout/Sidebar'
-import SupportChat from '@/components/cleanui/layout/SupportChat'
+
+import TopBar from '@/@vb/components/TopBar'
+import Breadcrumbs from '@/@vb/components/Breadcrumbs'
+import Breadcrumbs2 from '@/@vb/components/Breadcrumbs2'
+import MenuClassic from '@/@vb/components/MenuClassic'
+import MenuFlyout from '@/@vb/components/MenuFlyout'
+import MenuSimply from '@/@vb/components/MenuSimply'
+import Footer from '@/@vb/components/Footer'
+import Footer2 from '@/@vb/components/Footer2'
+import Footer3 from '@/@vb/components/Footer3'
+import Footer4 from '@/@vb/components/Footer4'
+import Sidebar from '@/@vb/components/Sidebar'
+import SupportChat from '@/@vb/components/SupportChat'
+import Variants from '@/@vb/components/Variants'
+import Tutorial from '@/@vb/components/Tutorial'
+
 import RouterAnimation from '../routerAnimation'
 
 const mapStateToProps = ({ settings }) => ({
+  isMobileMenuOpen: settings.isMobileMenuOpen,
   isContentMaxWidth: settings.isContentMaxWidth,
   isAppMaxWidth: settings.isAppMaxWidth,
   isGrayBackground: settings.isGrayBackground,
@@ -19,11 +30,21 @@ const mapStateToProps = ({ settings }) => ({
   isCardShadow: settings.isCardShadow,
   isBorderless: settings.isBorderless,
   isTopbarFixed: settings.isTopbarFixed,
+  isTopbarSeparated: settings.isTopbarSeparated,
   isGrayTopbar: settings.isGrayTopbar,
+  layoutTopbar: settings.layoutTopbar,
+  layoutBreadcrumbs: settings.layoutBreadcrumbs,
+  layoutFooter: settings.layoutFooter,
+  layoutMenu: settings.layoutMenu,
 })
 
+let touchStartPrev = 0
+let touchStartLocked = false
+
 const MainLayout = ({
+  dispatch,
   children,
+  isMobileMenuOpen,
   isContentMaxWidth,
   isAppMaxWidth,
   isGrayBackground,
@@ -31,41 +52,117 @@ const MainLayout = ({
   isCardShadow,
   isBorderless,
   isTopbarFixed,
+  isTopbarSeparated,
   isGrayTopbar,
+  layoutTopbar,
+  layoutBreadcrumbs,
+  layoutFooter,
+  layoutMenu,
 }) => {
+  // touch slide mobile menu opener
+  useEffect(() => {
+    const unify = (e) => {
+      return e.changedTouches ? e.changedTouches[0] : e
+    }
+    document.addEventListener(
+      'touchstart',
+      (e) => {
+        const x = unify(e).clientX
+        touchStartPrev = x
+        touchStartLocked = x > 70
+      },
+      { passive: false },
+    )
+    document.addEventListener(
+      'touchmove',
+      (e) => {
+        const x = unify(e).clientX
+        const prev = touchStartPrev
+        if (x - prev > 50 && !touchStartLocked) {
+          toggleMobileMenu()
+          touchStartLocked = true
+        }
+      },
+      { passive: false },
+    )
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  })
+
+  const toggleMobileMenu = () => {
+    dispatch({
+      type: 'settings/CHANGE_SETTING',
+      payload: {
+        setting: 'isMobileMenuOpen',
+        value: !isMobileMenuOpen,
+      },
+    })
+  }
+
+  const TopbarWrapper = ({ children: c }) => (
+    <Layout.Header
+      className={classNames('vb__layout__header', {
+        vb__layout__fixedHeader: isTopbarFixed,
+        vb__layout__headerGray: isGrayTopbar,
+        vb__layout__separatedHeader: isTopbarSeparated,
+      })}
+    >
+      {c}
+    </Layout.Header>
+  )
+
   return (
-    <div className={classNames({ cui__layout__grayBackground: isGrayBackground })}>
+    <div
+      className={classNames({
+        vb__layout__grayBackground: isGrayBackground,
+      })}
+    >
       <Layout
-        className={classNames({
-          cui__layout__contentMaxWidth: isContentMaxWidth,
-          cui__layout__appMaxWidth: isAppMaxWidth,
-          cui__layout__grayBackground: isGrayBackground,
-          cui__layout__squaredBorders: isSquaredBorders,
-          cui__layout__cardsShadow: isCardShadow,
-          cui__layout__borderless: isBorderless,
+        className={classNames('vb__layout', {
+          vb__layout__contentMaxWidth: isContentMaxWidth,
+          vb__layout__appMaxWidth: isAppMaxWidth,
+          vb__layout__squaredBorders: isSquaredBorders,
+          vb__layout__cardsShadow: isCardShadow,
+          vb__layout__borderless: isBorderless,
         })}
       >
+        <Tutorial />
+        <Variants />
         <Sidebar />
         <SupportChat />
-        <Menu />
+        {layoutMenu === 'classic' && <MenuClassic />}
+        {layoutMenu === 'flyout' && <MenuFlyout />}
+        {layoutMenu === 'simply' && <MenuSimply />}
         <Layout>
-          <Layout.Header
-            className={classNames('cui__layout__header', {
-              cui__layout__fixedHeader: isTopbarFixed,
-              cui__layout__headerGray: isGrayTopbar,
-            })}
-          >
-            <TopBar />
-          </Layout.Header>
-          <Breadcrumbs />
-          <Layout.Content style={{ height: '100%', position: 'relative' }}>
-            <div className="cui__utils__content">
-              <RouterAnimation>{children}</RouterAnimation>
-            </div>
+          {layoutTopbar === 'v1' && (
+            <TopbarWrapper>
+              <TopBar />
+            </TopbarWrapper>
+          )}
+          {layoutBreadcrumbs === 'v1' && <Breadcrumbs />}
+          {layoutBreadcrumbs === 'v2' && <Breadcrumbs2 />}
+          <Layout.Content className="vb__layout__content">
+            <RouterAnimation>{children}</RouterAnimation>
           </Layout.Content>
-          <Layout.Footer>
-            <Footer />
-          </Layout.Footer>
+          {layoutFooter === 'v1' && (
+            <Layout.Footer>
+              <Footer />
+            </Layout.Footer>
+          )}
+          {layoutFooter === 'v2' && (
+            <Layout.Footer>
+              <Footer2 />
+            </Layout.Footer>
+          )}
+          {layoutFooter === 'v3' && (
+            <Layout.Footer>
+              <Footer3 />
+            </Layout.Footer>
+          )}
+          {layoutFooter === 'v4' && (
+            <Layout.Footer>
+              <Footer4 />
+            </Layout.Footer>
+          )}
         </Layout>
       </Layout>
     </div>

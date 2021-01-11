@@ -1,6 +1,6 @@
 export default {
-  'topBar.issuesHistory': 'Issues History',
-  'topBar.projectManagement': 'Project Management',
+  'topBar.issuesHistory': 'Issues',
+  'topBar.projectManagement': 'Projects',
   'topBar.typeToSearch': 'Search...',
   'topBar.findPages': 'Find pages...',
   'topBar.actions': 'Actions',

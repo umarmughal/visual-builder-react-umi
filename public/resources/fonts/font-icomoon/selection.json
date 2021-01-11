@@ -9,7 +9,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["home", "house"],
+        "tags": [
+          "home",
+          "house"
+        ],
         "defaultCode": 59648,
         "grid": 16
       },
@@ -34,7 +37,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["home", "house"],
+        "tags": [
+          "home",
+          "house"
+        ],
         "defaultCode": 59649,
         "grid": 16
       },
@@ -59,7 +65,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["home", "house"],
+        "tags": [
+          "home",
+          "house"
+        ],
         "defaultCode": 59650,
         "grid": 16
       },
@@ -84,7 +93,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["office", "buildings", "work"],
+        "tags": [
+          "office",
+          "buildings",
+          "work"
+        ],
         "defaultCode": 59651,
         "grid": 16
       },
@@ -109,7 +122,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["newspaper", "news", "paper"],
+        "tags": [
+          "newspaper",
+          "news",
+          "paper"
+        ],
         "defaultCode": 59652,
         "grid": 16
       },
@@ -134,7 +151,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["pencil", "write", "edit"],
+        "tags": [
+          "pencil",
+          "write",
+          "edit"
+        ],
         "defaultCode": 59653,
         "grid": 16
       },
@@ -159,7 +180,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["pencil", "write", "edit"],
+        "tags": [
+          "pencil",
+          "write",
+          "edit"
+        ],
         "defaultCode": 59654,
         "grid": 16
       },
@@ -184,7 +209,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["quill", "feather", "write", "edit"],
+        "tags": [
+          "quill",
+          "feather",
+          "write",
+          "edit"
+        ],
         "defaultCode": 59655,
         "grid": 16
       },
@@ -210,7 +240,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["pen", "write", "edit"],
+        "tags": [
+          "pen",
+          "write",
+          "edit"
+        ],
         "defaultCode": 59656,
         "grid": 16
       },
@@ -237,7 +271,14 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["blog", "pen", "feed", "publish", "broadcast", "write"],
+        "tags": [
+          "blog",
+          "pen",
+          "feed",
+          "publish",
+          "broadcast",
+          "write"
+        ],
         "defaultCode": 59657,
         "grid": 16
       },
@@ -262,7 +303,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["eyedropper", "color", "color-picker", "sample"],
+        "tags": [
+          "eyedropper",
+          "color",
+          "color-picker",
+          "sample"
+        ],
         "defaultCode": 59658,
         "grid": 16
       },
@@ -287,7 +333,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["droplet", "color", "water"],
+        "tags": [
+          "droplet",
+          "color",
+          "water"
+        ],
         "defaultCode": 59659,
         "grid": 16
       },
@@ -312,7 +362,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["paint-format", "format", "color"],
+        "tags": [
+          "paint-format",
+          "format",
+          "color"
+        ],
         "defaultCode": 59660,
         "grid": 16
       },
@@ -339,7 +393,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["image", "picture", "photo", "graphic"],
+        "tags": [
+          "image",
+          "picture",
+          "photo",
+          "graphic"
+        ],
         "defaultCode": 59661,
         "grid": 16
       },
@@ -367,7 +426,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["images", "pictures", "photos", "graphics"],
+        "tags": [
+          "images",
+          "pictures",
+          "photos",
+          "graphics"
+        ],
         "defaultCode": 59662,
         "grid": 16
       },
@@ -392,7 +456,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["camera", "photo", "picture", "image"],
+        "tags": [
+          "camera",
+          "photo",
+          "picture",
+          "image"
+        ],
         "defaultCode": 59663,
         "grid": 16
       },
@@ -419,7 +488,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["headphones", "headset", "music", "audio"],
+        "tags": [
+          "headphones",
+          "headset",
+          "music",
+          "audio"
+        ],
         "defaultCode": 59664,
         "grid": 16
       },
@@ -444,7 +518,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["music", "song", "audio", "sound", "note"],
+        "tags": [
+          "music",
+          "song",
+          "audio",
+          "sound",
+          "note"
+        ],
         "defaultCode": 59665,
         "grid": 16
       },
@@ -469,7 +549,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["play", "video", "movie"],
+        "tags": [
+          "play",
+          "video",
+          "movie"
+        ],
         "defaultCode": 59666,
         "grid": 16
       },
@@ -494,7 +578,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["film", "video", "movie", "tape", "play"],
+        "tags": [
+          "film",
+          "video",
+          "movie",
+          "tape",
+          "play"
+        ],
         "defaultCode": 59667,
         "grid": 16
       },
@@ -519,7 +609,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["video-camera", "video", "media", "film", "movie"],
+        "tags": [
+          "video-camera",
+          "video",
+          "media",
+          "film",
+          "movie"
+        ],
         "defaultCode": 59668,
         "grid": 16
       },
@@ -544,7 +640,14 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["dice", "game", "chance", "luck", "random", "gample"],
+        "tags": [
+          "dice",
+          "game",
+          "chance",
+          "luck",
+          "random",
+          "gample"
+        ],
         "defaultCode": 59669,
         "grid": 16
       },
@@ -569,7 +672,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["pacman", "game", "arcade"],
+        "tags": [
+          "pacman",
+          "game",
+          "arcade"
+        ],
         "defaultCode": 59670,
         "grid": 16
       },
@@ -594,7 +701,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["spades", "cards", "poker"],
+        "tags": [
+          "spades",
+          "cards",
+          "poker"
+        ],
         "defaultCode": 59671,
         "grid": 16
       },
@@ -619,7 +730,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["clubs", "cards", "poker"],
+        "tags": [
+          "clubs",
+          "cards",
+          "poker"
+        ],
         "defaultCode": 59672,
         "grid": 16
       },
@@ -638,11 +753,17 @@
     },
     {
       "icon": {
-        "paths": ["M512 0l-320 512 320 512 320-512z"],
+        "paths": [
+          "M512 0l-320 512 320 512 320-512z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["diamonds", "cards", "poker"],
+        "tags": [
+          "diamonds",
+          "cards",
+          "poker"
+        ],
         "defaultCode": 59673,
         "grid": 16
       },
@@ -667,7 +788,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["bullhorn", "megaphone", "announcement", "advertisement", "news"],
+        "tags": [
+          "bullhorn",
+          "megaphone",
+          "announcement",
+          "advertisement",
+          "news"
+        ],
         "defaultCode": 59674,
         "grid": 16
       },
@@ -693,7 +820,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["connection", "wifi", "wave"],
+        "tags": [
+          "connection",
+          "wifi",
+          "wave"
+        ],
         "defaultCode": 59675,
         "grid": 16
       },
@@ -718,7 +849,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["podcast", "broadcast", "live", "radio", "feed"],
+        "tags": [
+          "podcast",
+          "broadcast",
+          "live",
+          "radio",
+          "feed"
+        ],
         "defaultCode": 59676,
         "grid": 16
       },
@@ -743,7 +880,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["feed", "wave", "radio", "live", "broadcast"],
+        "tags": [
+          "feed",
+          "wave",
+          "radio",
+          "live",
+          "broadcast"
+        ],
         "defaultCode": 59677,
         "grid": 16
       },
@@ -768,7 +911,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["mic", "microphone", "voice", "audio"],
+        "tags": [
+          "mic",
+          "microphone",
+          "voice",
+          "audio"
+        ],
         "defaultCode": 59678,
         "grid": 16
       },
@@ -794,7 +942,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["book", "read", "reading"],
+        "tags": [
+          "book",
+          "read",
+          "reading"
+        ],
         "defaultCode": 59679,
         "grid": 16
       },
@@ -823,7 +975,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["books", "library", "archive"],
+        "tags": [
+          "books",
+          "library",
+          "archive"
+        ],
         "defaultCode": 59680,
         "grid": 16
       },
@@ -850,7 +1006,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["library", "bank", "building"],
+        "tags": [
+          "library",
+          "bank",
+          "building"
+        ],
         "defaultCode": 59681,
         "grid": 16
       },
@@ -875,7 +1035,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["file-text", "file", "document", "list", "paper"],
+        "tags": [
+          "file-text",
+          "file",
+          "document",
+          "list",
+          "paper"
+        ],
         "defaultCode": 59682,
         "grid": 16
       },
@@ -900,7 +1066,14 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["profile", "file", "document", "page", "user", "paper"],
+        "tags": [
+          "profile",
+          "file",
+          "document",
+          "page",
+          "user",
+          "paper"
+        ],
         "defaultCode": 59683,
         "grid": 16
       },
@@ -925,7 +1098,16 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["file-empty", "file", "document", "paper", "page", "new", "empty", "blank"],
+        "tags": [
+          "file-empty",
+          "file",
+          "document",
+          "paper",
+          "page",
+          "new",
+          "empty",
+          "blank"
+        ],
         "defaultCode": 59684,
         "grid": 16
       },
@@ -951,7 +1133,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["files-empty", "files", "documents", "papers", "pages"],
+        "tags": [
+          "files-empty",
+          "files",
+          "documents",
+          "papers",
+          "pages"
+        ],
         "defaultCode": 59685,
         "grid": 16
       },
@@ -979,7 +1167,14 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["file-text", "file", "document", "list", "paper", "page"],
+        "tags": [
+          "file-text",
+          "file",
+          "document",
+          "list",
+          "paper",
+          "page"
+        ],
         "defaultCode": 59686,
         "grid": 16
       },
@@ -1006,7 +1201,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["file-picture", "file", "document", "file-image"],
+        "tags": [
+          "file-picture",
+          "file",
+          "document",
+          "file-image"
+        ],
         "defaultCode": 59687,
         "grid": 16
       },
@@ -1032,7 +1232,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["file-music", "file", "document", "file-song", "file-audio"],
+        "tags": [
+          "file-music",
+          "file",
+          "document",
+          "file-song",
+          "file-audio"
+        ],
         "defaultCode": 59688,
         "grid": 16
       },
@@ -1058,7 +1264,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["file-play", "file", "document", "file-media", "file-video"],
+        "tags": [
+          "file-play",
+          "file",
+          "document",
+          "file-media",
+          "file-video"
+        ],
         "defaultCode": 59689,
         "grid": 16
       },
@@ -1085,7 +1297,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["file-video", "file", "document", "file-camera"],
+        "tags": [
+          "file-video",
+          "file",
+          "document",
+          "file-camera"
+        ],
         "defaultCode": 59690,
         "grid": 16
       },
@@ -1119,7 +1336,14 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["file-zip", "file", "document", "file-compressed", "file-type", "file-format"],
+        "tags": [
+          "file-zip",
+          "file",
+          "document",
+          "file-compressed",
+          "file-type",
+          "file-format"
+        ],
         "defaultCode": 59691,
         "grid": 16
       },
@@ -1144,7 +1368,14 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["copy", "duplicate", "files", "pages", "papers", "documents"],
+        "tags": [
+          "copy",
+          "duplicate",
+          "files",
+          "pages",
+          "papers",
+          "documents"
+        ],
         "defaultCode": 59692,
         "grid": 16
       },
@@ -1169,7 +1400,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["paste", "clipboard-file"],
+        "tags": [
+          "paste",
+          "clipboard-file"
+        ],
         "defaultCode": 59693,
         "grid": 16
       },
@@ -1194,7 +1428,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["stack", "layers"],
+        "tags": [
+          "stack",
+          "layers"
+        ],
         "defaultCode": 59694,
         "grid": 16
       },
@@ -1213,11 +1450,18 @@
     },
     {
       "icon": {
-        "paths": ["M448 128l128 128h448v704h-1024v-832z"],
+        "paths": [
+          "M448 128l128 128h448v704h-1024v-832z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["folder", "directory", "category", "browse"],
+        "tags": [
+          "folder",
+          "directory",
+          "category",
+          "browse"
+        ],
         "defaultCode": 59695,
         "grid": 16
       },
@@ -1236,11 +1480,18 @@
     },
     {
       "icon": {
-        "paths": ["M832 960l192-512h-832l-192 512zM128 384l-128 576v-832h288l128 128h416v128z"],
+        "paths": [
+          "M832 960l192-512h-832l-192 512zM128 384l-128 576v-832h288l128 128h416v128z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["folder-open", "directory", "category", "browse"],
+        "tags": [
+          "folder-open",
+          "directory",
+          "category",
+          "browse"
+        ],
         "defaultCode": 59696,
         "grid": 16
       },
@@ -1265,7 +1516,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["folder-plus", "directory", "folder-add"],
+        "tags": [
+          "folder-plus",
+          "directory",
+          "folder-add"
+        ],
         "defaultCode": 59697,
         "grid": 16
       },
@@ -1284,11 +1539,17 @@
     },
     {
       "icon": {
-        "paths": ["M576 256l-128-128h-448v832h1024v-704h-448zM704 704h-384v-128h384v128z"],
+        "paths": [
+          "M576 256l-128-128h-448v832h1024v-704h-448zM704 704h-384v-128h384v128z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["folder-minus", "directory", "folder-remove"],
+        "tags": [
+          "folder-minus",
+          "directory",
+          "folder-remove"
+        ],
         "defaultCode": 59698,
         "grid": 16
       },
@@ -1313,7 +1574,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["folder-download", "directory", "folder-save"],
+        "tags": [
+          "folder-download",
+          "directory",
+          "folder-save"
+        ],
         "defaultCode": 59699,
         "grid": 16
       },
@@ -1338,7 +1603,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["folder-upload", "directory", "folder-load"],
+        "tags": [
+          "folder-upload",
+          "directory",
+          "folder-load"
+        ],
         "defaultCode": 59700,
         "grid": 16
       },
@@ -1363,7 +1632,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["price-tag"],
+        "tags": [
+          "price-tag"
+        ],
         "defaultCode": 59701,
         "grid": 16
       },
@@ -1390,7 +1661,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["price-tags"],
+        "tags": [
+          "price-tags"
+        ],
         "defaultCode": 59702,
         "grid": 16
       },
@@ -1415,7 +1688,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["barcode"],
+        "tags": [
+          "barcode"
+        ],
         "defaultCode": 59703,
         "grid": 16
       },
@@ -1440,7 +1715,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["qrcode"],
+        "tags": [
+          "qrcode"
+        ],
         "defaultCode": 59704,
         "grid": 16
       },
@@ -1465,7 +1742,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["ticket", "theater", "cinema"],
+        "tags": [
+          "ticket",
+          "theater",
+          "cinema"
+        ],
         "defaultCode": 59705,
         "grid": 16
       },
@@ -1492,7 +1773,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["cart", "purchase", "ecommerce", "shopping"],
+        "tags": [
+          "cart",
+          "purchase",
+          "ecommerce",
+          "shopping"
+        ],
         "defaultCode": 59706,
         "grid": 16
       },
@@ -1517,7 +1803,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["coin-dollar", "money", "cash", "currency-dollar"],
+        "tags": [
+          "coin-dollar",
+          "money",
+          "cash",
+          "currency-dollar"
+        ],
         "defaultCode": 59707,
         "grid": 16
       },
@@ -1543,7 +1834,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["coin-euro", "money", "cash", "currency-euro"],
+        "tags": [
+          "coin-euro",
+          "money",
+          "cash",
+          "currency-euro"
+        ],
         "defaultCode": 59708,
         "grid": 16
       },
@@ -1569,7 +1865,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["coin-pound", "money", "cash", "currency-pound"],
+        "tags": [
+          "coin-pound",
+          "money",
+          "cash",
+          "currency-pound"
+        ],
         "defaultCode": 59709,
         "grid": 16
       },
@@ -1595,7 +1896,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["coin-yen", "money", "cash", "currency-yen"],
+        "tags": [
+          "coin-yen",
+          "money",
+          "cash",
+          "currency-yen"
+        ],
         "defaultCode": 59710,
         "grid": 16
       },
@@ -1620,7 +1926,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["credit-card", "money", "payment", "ecommerce"],
+        "tags": [
+          "credit-card",
+          "money",
+          "payment",
+          "ecommerce"
+        ],
         "defaultCode": 59711,
         "grid": 16
       },
@@ -1645,7 +1956,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["calculator", "compute", "math", "arithmetic", "sum"],
+        "tags": [
+          "calculator",
+          "compute",
+          "math",
+          "arithmetic",
+          "sum"
+        ],
         "defaultCode": 59712,
         "grid": 16
       },
@@ -1670,7 +1987,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["lifebuoy", "support", "help"],
+        "tags": [
+          "lifebuoy",
+          "support",
+          "help"
+        ],
         "defaultCode": 59713,
         "grid": 16
       },
@@ -1695,7 +2016,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["phone", "telephone", "contact", "support", "call"],
+        "tags": [
+          "phone",
+          "telephone",
+          "contact",
+          "support",
+          "call"
+        ],
         "defaultCode": 59714,
         "grid": 16
       },
@@ -1720,7 +2047,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["phone-hang-up", "telephone", "contact", "support", "call"],
+        "tags": [
+          "phone-hang-up",
+          "telephone",
+          "contact",
+          "support",
+          "call"
+        ],
         "defaultCode": 59715,
         "grid": 16
       },
@@ -1749,7 +2082,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["address-book", "contact", "book", "contacts"],
+        "tags": [
+          "address-book",
+          "contact",
+          "book",
+          "contacts"
+        ],
         "defaultCode": 59716,
         "grid": 16
       },
@@ -1774,7 +2112,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["envelop", "mail", "email", "contact", "letter"],
+        "tags": [
+          "envelop",
+          "mail",
+          "email",
+          "contact",
+          "letter"
+        ],
         "defaultCode": 59717,
         "grid": 16
       },
@@ -1799,7 +2143,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["pushpin", "pin"],
+        "tags": [
+          "pushpin",
+          "pin"
+        ],
         "defaultCode": 59718,
         "grid": 16
       },
@@ -1824,7 +2171,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["location", "map-marker", "pin"],
+        "tags": [
+          "location",
+          "map-marker",
+          "pin"
+        ],
         "defaultCode": 59719,
         "grid": 16
       },
@@ -1849,7 +2200,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["location", "map-marker", "pin"],
+        "tags": [
+          "location",
+          "map-marker",
+          "pin"
+        ],
         "defaultCode": 59720,
         "grid": 16
       },
@@ -1874,7 +2229,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["compass", "direction", "location"],
+        "tags": [
+          "compass",
+          "direction",
+          "location"
+        ],
         "defaultCode": 59721,
         "grid": 16
       },
@@ -1899,7 +2258,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["compass", "direction", "location"],
+        "tags": [
+          "compass",
+          "direction",
+          "location"
+        ],
         "defaultCode": 59722,
         "grid": 16
       },
@@ -1926,7 +2289,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["map", "guide"],
+        "tags": [
+          "map",
+          "guide"
+        ],
         "defaultCode": 59723,
         "grid": 16
       },
@@ -1951,7 +2317,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["map", "guide"],
+        "tags": [
+          "map",
+          "guide"
+        ],
         "defaultCode": 59724,
         "grid": 16
       },
@@ -1977,7 +2346,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["history", "time", "archive", "past"],
+        "tags": [
+          "history",
+          "time",
+          "archive",
+          "past"
+        ],
         "defaultCode": 59725,
         "grid": 16
       },
@@ -2002,7 +2376,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["clock", "time", "schedule"],
+        "tags": [
+          "clock",
+          "time",
+          "schedule"
+        ],
         "defaultCode": 59726,
         "grid": 16
       },
@@ -2027,7 +2405,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["clock", "time", "schedule"],
+        "tags": [
+          "clock",
+          "time",
+          "schedule"
+        ],
         "defaultCode": 59727,
         "grid": 16
       },
@@ -2053,7 +2435,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["alarm", "time", "clock"],
+        "tags": [
+          "alarm",
+          "time",
+          "clock"
+        ],
         "defaultCode": 59728,
         "grid": 16
       },
@@ -2078,7 +2464,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["bell", "alarm", "notification"],
+        "tags": [
+          "bell",
+          "alarm",
+          "notification"
+        ],
         "defaultCode": 59729,
         "grid": 16
       },
@@ -2103,7 +2493,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["stopwatch", "time", "speed", "meter", "chronometer"],
+        "tags": [
+          "stopwatch",
+          "time",
+          "speed",
+          "meter",
+          "chronometer"
+        ],
         "defaultCode": 59730,
         "grid": 16
       },
@@ -2128,7 +2524,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["calendar", "date", "schedule", "time", "day"],
+        "tags": [
+          "calendar",
+          "date",
+          "schedule",
+          "time",
+          "day"
+        ],
         "defaultCode": 59731,
         "grid": 16
       },
@@ -2154,7 +2556,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["printer", "print"],
+        "tags": [
+          "printer",
+          "print"
+        ],
         "defaultCode": 59732,
         "grid": 16
       },
@@ -2180,7 +2585,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["keyboard", "typing", "type"],
+        "tags": [
+          "keyboard",
+          "typing",
+          "type"
+        ],
         "defaultCode": 59733,
         "grid": 16
       },
@@ -2205,7 +2614,14 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["display", "screen", "monitor", "computer", "desktop", "pc"],
+        "tags": [
+          "display",
+          "screen",
+          "monitor",
+          "computer",
+          "desktop",
+          "pc"
+        ],
         "defaultCode": 59734,
         "grid": 16
       },
@@ -2230,7 +2646,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["laptop", "computer", "pc"],
+        "tags": [
+          "laptop",
+          "computer",
+          "pc"
+        ],
         "defaultCode": 59735,
         "grid": 16
       },
@@ -2255,7 +2675,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["mobile", "cell-phone", "handheld"],
+        "tags": [
+          "mobile",
+          "cell-phone",
+          "handheld"
+        ],
         "defaultCode": 59736,
         "grid": 16
       },
@@ -2280,7 +2704,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["mobile", "cell-phone", "handheld", "tablet", "phablet"],
+        "tags": [
+          "mobile",
+          "cell-phone",
+          "handheld",
+          "tablet",
+          "phablet"
+        ],
         "defaultCode": 59737,
         "grid": 16
       },
@@ -2305,7 +2735,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["tablet", "mobile"],
+        "tags": [
+          "tablet",
+          "mobile"
+        ],
         "defaultCode": 59738,
         "grid": 16
       },
@@ -2330,7 +2763,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["tv", "television", "show"],
+        "tags": [
+          "tv",
+          "television",
+          "show"
+        ],
         "defaultCode": 59739,
         "grid": 16
       },
@@ -2357,7 +2794,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["drawer", "box", "inbox", "archive", "category"],
+        "tags": [
+          "drawer",
+          "box",
+          "inbox",
+          "archive",
+          "category"
+        ],
         "defaultCode": 59740,
         "grid": 16
       },
@@ -2382,7 +2825,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["drawer", "box", "inbox", "archive", "category"],
+        "tags": [
+          "drawer",
+          "box",
+          "inbox",
+          "archive",
+          "category"
+        ],
         "defaultCode": 59741,
         "grid": 16
       },
@@ -2407,7 +2856,14 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["box-add", "box", "download", "storage", "inbox", "archive"],
+        "tags": [
+          "box-add",
+          "box",
+          "download",
+          "storage",
+          "inbox",
+          "archive"
+        ],
         "defaultCode": 59742,
         "grid": 16
       },
@@ -2432,7 +2888,14 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["box-remove", "box", "upload", "storage", "outbox", "archive"],
+        "tags": [
+          "box-remove",
+          "box",
+          "upload",
+          "storage",
+          "outbox",
+          "archive"
+        ],
         "defaultCode": 59743,
         "grid": 16
       },
@@ -2457,7 +2920,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["download", "save", "store", "arrow"],
+        "tags": [
+          "download",
+          "save",
+          "store",
+          "arrow"
+        ],
         "defaultCode": 59744,
         "grid": 16
       },
@@ -2482,7 +2950,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["upload", "load", "arrow"],
+        "tags": [
+          "upload",
+          "load",
+          "arrow"
+        ],
         "defaultCode": 59745,
         "grid": 16
       },
@@ -2507,7 +2979,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["floppy-disk", "save"],
+        "tags": [
+          "floppy-disk",
+          "save"
+        ],
         "defaultCode": 59746,
         "grid": 16
       },
@@ -2532,7 +3007,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["drive", "save", "hdd", "hard-disk"],
+        "tags": [
+          "drive",
+          "save",
+          "hdd",
+          "hard-disk"
+        ],
         "defaultCode": 59747,
         "grid": 16
       },
@@ -2559,7 +3039,15 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["database", "db", "server", "host", "storage", "save", "datecenter"],
+        "tags": [
+          "database",
+          "db",
+          "server",
+          "host",
+          "storage",
+          "save",
+          "datecenter"
+        ],
         "defaultCode": 59748,
         "grid": 16
       },
@@ -2584,7 +3072,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["undo", "ccw", "arrow"],
+        "tags": [
+          "undo",
+          "ccw",
+          "arrow"
+        ],
         "defaultCode": 59749,
         "grid": 16
       },
@@ -2609,7 +3101,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["redo", "cw", "arrow"],
+        "tags": [
+          "redo",
+          "cw",
+          "arrow"
+        ],
         "defaultCode": 59750,
         "grid": 16
       },
@@ -2634,7 +3130,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["undo", "left", "arrow-left"],
+        "tags": [
+          "undo",
+          "left",
+          "arrow-left"
+        ],
         "defaultCode": 59751,
         "grid": 16
       },
@@ -2659,7 +3159,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["redo", "right", "arrow-right"],
+        "tags": [
+          "redo",
+          "right",
+          "arrow-right"
+        ],
         "defaultCode": 59752,
         "grid": 16
       },
@@ -2684,7 +3188,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["forward", "right", "arrow-right"],
+        "tags": [
+          "forward",
+          "right",
+          "arrow-right"
+        ],
         "defaultCode": 59753,
         "grid": 16
       },
@@ -2709,7 +3217,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["reply", "left", "arrow-left"],
+        "tags": [
+          "reply",
+          "left",
+          "arrow-left"
+        ],
         "defaultCode": 59754,
         "grid": 16
       },
@@ -2734,7 +3246,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["bubble", "comment", "chat", "talk"],
+        "tags": [
+          "bubble",
+          "comment",
+          "chat",
+          "talk"
+        ],
         "defaultCode": 59755,
         "grid": 16
       },
@@ -2760,7 +3277,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["bubbles", "comments", "chat", "talk"],
+        "tags": [
+          "bubbles",
+          "comments",
+          "chat",
+          "talk"
+        ],
         "defaultCode": 59756,
         "grid": 16
       },
@@ -2786,7 +3308,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["bubbles", "comments", "chat", "talk"],
+        "tags": [
+          "bubbles",
+          "comments",
+          "chat",
+          "talk"
+        ],
         "defaultCode": 59757,
         "grid": 16
       },
@@ -2811,7 +3338,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["bubble", "comment", "chat", "talk"],
+        "tags": [
+          "bubble",
+          "comment",
+          "chat",
+          "talk"
+        ],
         "defaultCode": 59758,
         "grid": 16
       },
@@ -2837,7 +3369,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["bubbles", "comments", "chat", "talk"],
+        "tags": [
+          "bubbles",
+          "comments",
+          "chat",
+          "talk"
+        ],
         "defaultCode": 59759,
         "grid": 16
       },
@@ -2863,7 +3400,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["bubbles", "comments", "chat", "talk"],
+        "tags": [
+          "bubbles",
+          "comments",
+          "chat",
+          "talk"
+        ],
         "defaultCode": 59760,
         "grid": 16
       },
@@ -2888,7 +3430,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["user", "profile", "avatar", "person", "member"],
+        "tags": [
+          "user",
+          "profile",
+          "avatar",
+          "person",
+          "member"
+        ],
         "defaultCode": 59761,
         "grid": 16
       },
@@ -2915,7 +3463,14 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["users", "group", "team", "members", "community", "collaborate"],
+        "tags": [
+          "users",
+          "group",
+          "team",
+          "members",
+          "community",
+          "collaborate"
+        ],
         "defaultCode": 59762,
         "grid": 16
       },
@@ -2942,7 +3497,15 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["user-plus", "user", "user-add", "profile", "avatar", "person", "member"],
+        "tags": [
+          "user-plus",
+          "user",
+          "user-add",
+          "profile",
+          "avatar",
+          "person",
+          "member"
+        ],
         "defaultCode": 59763,
         "grid": 16
       },
@@ -2969,7 +3532,15 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["user-minus", "user", "user-remove", "profile", "avatar", "person", "member"],
+        "tags": [
+          "user-minus",
+          "user",
+          "user-remove",
+          "profile",
+          "avatar",
+          "person",
+          "member"
+        ],
         "defaultCode": 59764,
         "grid": 16
       },
@@ -2996,7 +3567,15 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["user-check", "user", "user-tick", "profile", "avatar", "person", "member"],
+        "tags": [
+          "user-check",
+          "user",
+          "user-tick",
+          "profile",
+          "avatar",
+          "person",
+          "member"
+        ],
         "defaultCode": 59765,
         "grid": 16
       },
@@ -3056,7 +3635,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["quotes-left", "ldquo"],
+        "tags": [
+          "quotes-left",
+          "ldquo"
+        ],
         "defaultCode": 59767,
         "grid": 16
       },
@@ -3081,7 +3663,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["quotes-right", "rdquo"],
+        "tags": [
+          "quotes-right",
+          "rdquo"
+        ],
         "defaultCode": 59768,
         "grid": 16
       },
@@ -3106,7 +3691,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["hour-glass", "loading", "busy", "wait"],
+        "tags": [
+          "hour-glass",
+          "loading",
+          "busy",
+          "wait"
+        ],
         "defaultCode": 59769,
         "grid": 16
       },
@@ -3131,7 +3721,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["spinner", "loading", "loading-wheel", "busy", "wait"],
+        "tags": [
+          "spinner",
+          "loading",
+          "loading-wheel",
+          "busy",
+          "wait"
+        ],
         "defaultCode": 59770,
         "grid": 16
       },
@@ -3156,7 +3752,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["spinner", "loading", "loading-wheel", "busy", "wait"],
+        "tags": [
+          "spinner",
+          "loading",
+          "loading-wheel",
+          "busy",
+          "wait"
+        ],
         "defaultCode": 59771,
         "grid": 16
       },
@@ -3192,7 +3794,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["spinner", "loading", "loading-wheel", "busy", "wait"],
+        "tags": [
+          "spinner",
+          "loading",
+          "loading-wheel",
+          "busy",
+          "wait"
+        ],
         "defaultCode": 59772,
         "grid": 16
       },
@@ -3217,7 +3825,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["spinner", "loading", "loading-wheel", "busy", "wait"],
+        "tags": [
+          "spinner",
+          "loading",
+          "loading-wheel",
+          "busy",
+          "wait"
+        ],
         "defaultCode": 59773,
         "grid": 16
       },
@@ -3242,7 +3856,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["spinner", "loading", "loading-wheel", "busy", "wait"],
+        "tags": [
+          "spinner",
+          "loading",
+          "loading-wheel",
+          "busy",
+          "wait"
+        ],
         "defaultCode": 59774,
         "grid": 16
       },
@@ -3267,7 +3887,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["spinner", "loading", "loading-wheel", "busy", "wait"],
+        "tags": [
+          "spinner",
+          "loading",
+          "loading-wheel",
+          "busy",
+          "wait"
+        ],
         "defaultCode": 59775,
         "grid": 16
       },
@@ -3292,7 +3918,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["spinner", "loading", "loading-wheel", "busy", "wait"],
+        "tags": [
+          "spinner",
+          "loading",
+          "loading-wheel",
+          "busy",
+          "wait"
+        ],
         "defaultCode": 59776,
         "grid": 16
       },
@@ -3317,7 +3949,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["spinner", "loading", "loading-wheel", "busy", "wait"],
+        "tags": [
+          "spinner",
+          "loading",
+          "loading-wheel",
+          "busy",
+          "wait"
+        ],
         "defaultCode": 59777,
         "grid": 16
       },
@@ -3342,7 +3980,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["spinner", "loading", "loading-wheel", "busy", "wait"],
+        "tags": [
+          "spinner",
+          "loading",
+          "loading-wheel",
+          "busy",
+          "wait"
+        ],
         "defaultCode": 59778,
         "grid": 16
       },
@@ -3367,7 +4011,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["spinner", "loading", "loading-wheel", "busy", "wait"],
+        "tags": [
+          "spinner",
+          "loading",
+          "loading-wheel",
+          "busy",
+          "wait"
+        ],
         "defaultCode": 59779,
         "grid": 16
       },
@@ -3426,7 +4076,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["binoculars", "lookup", "search", "find"],
+        "tags": [
+          "binoculars",
+          "lookup",
+          "search",
+          "find"
+        ],
         "defaultCode": 59781,
         "grid": 16
       },
@@ -3451,7 +4106,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["search", "magnifier", "magnifying-glass", "inspect", "find"],
+        "tags": [
+          "search",
+          "magnifier",
+          "magnifying-glass",
+          "inspect",
+          "find"
+        ],
         "defaultCode": 59782,
         "grid": 16
       },
@@ -3476,7 +4137,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["zoom-in", "magnifier", "magnifier-plus", "enlarge"],
+        "tags": [
+          "zoom-in",
+          "magnifier",
+          "magnifier-plus",
+          "enlarge"
+        ],
         "defaultCode": 59783,
         "grid": 16
       },
@@ -3501,7 +4167,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["zoom-out", "magnifier", "magnifier-minus", "reduce"],
+        "tags": [
+          "zoom-out",
+          "magnifier",
+          "magnifier-minus",
+          "reduce"
+        ],
         "defaultCode": 59784,
         "grid": 16
       },
@@ -3529,7 +4200,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["enlarge", "expand", "maximize", "fullscreen"],
+        "tags": [
+          "enlarge",
+          "expand",
+          "maximize",
+          "fullscreen"
+        ],
         "defaultCode": 59785,
         "grid": 16
       },
@@ -3557,7 +4233,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["shrink", "collapse", "minimize", "contract"],
+        "tags": [
+          "shrink",
+          "collapse",
+          "minimize",
+          "contract"
+        ],
         "defaultCode": 59786,
         "grid": 16
       },
@@ -3582,7 +4263,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["enlarge", "expand", "maximize", "fullscreen"],
+        "tags": [
+          "enlarge",
+          "expand",
+          "maximize",
+          "fullscreen"
+        ],
         "defaultCode": 59787,
         "grid": 16
       },
@@ -3607,7 +4293,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["shrink", "collapse", "minimize", "contract"],
+        "tags": [
+          "shrink",
+          "collapse",
+          "minimize",
+          "contract"
+        ],
         "defaultCode": 59788,
         "grid": 16
       },
@@ -3632,7 +4323,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["key", "password", "login", "signin"],
+        "tags": [
+          "key",
+          "password",
+          "login",
+          "signin"
+        ],
         "defaultCode": 59789,
         "grid": 16
       },
@@ -3657,7 +4353,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["key", "password", "login", "signin"],
+        "tags": [
+          "key",
+          "password",
+          "login",
+          "signin"
+        ],
         "defaultCode": 59790,
         "grid": 16
       },
@@ -3682,7 +4383,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["lock", "secure", "private", "encrypted"],
+        "tags": [
+          "lock",
+          "secure",
+          "private",
+          "encrypted"
+        ],
         "defaultCode": 59791,
         "grid": 16
       },
@@ -3707,7 +4413,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["unlocked", "lock-open"],
+        "tags": [
+          "unlocked",
+          "lock-open"
+        ],
         "defaultCode": 59792,
         "grid": 16
       },
@@ -3732,7 +4441,15 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["wrench", "tool", "fix", "settings", "control", "options", "preferences"],
+        "tags": [
+          "wrench",
+          "tool",
+          "fix",
+          "settings",
+          "control",
+          "options",
+          "preferences"
+        ],
         "defaultCode": 59793,
         "grid": 16
       },
@@ -3757,7 +4474,14 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["equalizer", "sliders", "settings", "preferences", "dashboard", "control"],
+        "tags": [
+          "equalizer",
+          "sliders",
+          "settings",
+          "preferences",
+          "dashboard",
+          "control"
+        ],
         "defaultCode": 59794,
         "grid": 16
       },
@@ -3782,7 +4506,14 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["equalizer", "sliders", "settings", "preferences", "dashboard", "control"],
+        "tags": [
+          "equalizer",
+          "sliders",
+          "settings",
+          "preferences",
+          "dashboard",
+          "control"
+        ],
         "defaultCode": 59795,
         "grid": 16
       },
@@ -3807,7 +4538,15 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["cog", "gear", "preferences", "settings", "generate", "control", "options"],
+        "tags": [
+          "cog",
+          "gear",
+          "preferences",
+          "settings",
+          "generate",
+          "control",
+          "options"
+        ],
         "defaultCode": 59796,
         "grid": 16
       },
@@ -3832,7 +4571,15 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["cogs", "gears", "preferences", "settings", "generate", "control", "options"],
+        "tags": [
+          "cogs",
+          "gears",
+          "preferences",
+          "settings",
+          "generate",
+          "control",
+          "options"
+        ],
         "defaultCode": 59797,
         "grid": 16
       },
@@ -3857,7 +4604,15 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["hammer", "tool", "fix", "make", "generate", "work", "build"],
+        "tags": [
+          "hammer",
+          "tool",
+          "fix",
+          "make",
+          "generate",
+          "work",
+          "build"
+        ],
         "defaultCode": 59798,
         "grid": 16
       },
@@ -3882,7 +4637,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["magic-wand", "wizard"],
+        "tags": [
+          "magic-wand",
+          "wizard"
+        ],
         "defaultCode": 59799,
         "grid": 16
       },
@@ -3907,7 +4665,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["aid-kit", "health", "medicine", "medical"],
+        "tags": [
+          "aid-kit",
+          "health",
+          "medicine",
+          "medical"
+        ],
         "defaultCode": 59800,
         "grid": 16
       },
@@ -3932,7 +4695,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["bug", "virus", "error"],
+        "tags": [
+          "bug",
+          "virus",
+          "error"
+        ],
         "defaultCode": 59801,
         "grid": 16
       },
@@ -3957,7 +4724,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["pie-chart", "stats", "statistics", "graph"],
+        "tags": [
+          "pie-chart",
+          "stats",
+          "statistics",
+          "graph"
+        ],
         "defaultCode": 59802,
         "grid": 16
       },
@@ -3982,7 +4754,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["stats-dots", "stats", "plot", "statistics", "chart"],
+        "tags": [
+          "stats-dots",
+          "stats",
+          "plot",
+          "statistics",
+          "chart"
+        ],
         "defaultCode": 59803,
         "grid": 16
       },
@@ -4007,7 +4785,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["stats-bars", "stats", "statistics", "chart"],
+        "tags": [
+          "stats-bars",
+          "stats",
+          "statistics",
+          "chart"
+        ],
         "defaultCode": 59804,
         "grid": 16
       },
@@ -4032,7 +4815,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["stats-bars", "stats", "statistics", "chart"],
+        "tags": [
+          "stats-bars",
+          "stats",
+          "statistics",
+          "chart"
+        ],
         "defaultCode": 59805,
         "grid": 16
       },
@@ -4057,7 +4845,14 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["trophy", "cup", "prize", "award", "winner", "tournament"],
+        "tags": [
+          "trophy",
+          "cup",
+          "prize",
+          "award",
+          "winner",
+          "tournament"
+        ],
         "defaultCode": 59806,
         "grid": 16
       },
@@ -4082,7 +4877,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["gift", "present", "box"],
+        "tags": [
+          "gift",
+          "present",
+          "box"
+        ],
         "defaultCode": 59807,
         "grid": 16
       },
@@ -4107,7 +4906,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["glass", "drink", "beverage", "wine"],
+        "tags": [
+          "glass",
+          "drink",
+          "beverage",
+          "wine"
+        ],
         "defaultCode": 59808,
         "grid": 16
       },
@@ -4132,7 +4936,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["glass", "drink", "beverage", "wine"],
+        "tags": [
+          "glass",
+          "drink",
+          "beverage",
+          "wine"
+        ],
         "defaultCode": 59809,
         "grid": 16
       },
@@ -4157,7 +4966,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["mug", "drink", "glass", "beverage"],
+        "tags": [
+          "mug",
+          "drink",
+          "glass",
+          "beverage"
+        ],
         "defaultCode": 59810,
         "grid": 16
       },
@@ -4182,7 +4996,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["spoon-knife", "food", "restaurant"],
+        "tags": [
+          "spoon-knife",
+          "food",
+          "restaurant"
+        ],
         "defaultCode": 59811,
         "grid": 16
       },
@@ -4207,7 +5025,15 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["leaf", "nature", "plant", "tea", "green", "vegan", "vegetarian"],
+        "tags": [
+          "leaf",
+          "nature",
+          "plant",
+          "tea",
+          "green",
+          "vegan",
+          "vegetarian"
+        ],
         "defaultCode": 59812,
         "grid": 16
       },
@@ -4232,7 +5058,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["rocket", "jet", "speed", "spaceship", "fast"],
+        "tags": [
+          "rocket",
+          "jet",
+          "speed",
+          "spaceship",
+          "fast"
+        ],
         "defaultCode": 59813,
         "grid": 16
       },
@@ -4257,7 +5089,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["meter", "gauge", "dashboard", "speedometer", "performance"],
+        "tags": [
+          "meter",
+          "gauge",
+          "dashboard",
+          "speedometer",
+          "performance"
+        ],
         "defaultCode": 59814,
         "grid": 16
       },
@@ -4282,7 +5120,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["meter", "gauge", "dashboard", "speedometer", "performance"],
+        "tags": [
+          "meter",
+          "gauge",
+          "dashboard",
+          "speedometer",
+          "performance"
+        ],
         "defaultCode": 59815,
         "grid": 16
       },
@@ -4307,7 +5151,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["hammer", "gavel", "rules", "justice", "legal"],
+        "tags": [
+          "hammer",
+          "gavel",
+          "rules",
+          "justice",
+          "legal"
+        ],
         "defaultCode": 59816,
         "grid": 16
       },
@@ -4332,7 +5182,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["fire", "flame", "hot", "popular"],
+        "tags": [
+          "fire",
+          "flame",
+          "hot",
+          "popular"
+        ],
         "defaultCode": 59817,
         "grid": 16
       },
@@ -4357,7 +5212,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["lab", "beta", "beaker", "test", "experiment"],
+        "tags": [
+          "lab",
+          "beta",
+          "beaker",
+          "test",
+          "experiment"
+        ],
         "defaultCode": 59818,
         "grid": 16
       },
@@ -4382,7 +5243,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["magnet", "attract"],
+        "tags": [
+          "magnet",
+          "attract"
+        ],
         "defaultCode": 59819,
         "grid": 16
       },
@@ -4408,7 +5272,14 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["bin", "trashcan", "remove", "delete", "recycle", "dispose"],
+        "tags": [
+          "bin",
+          "trashcan",
+          "remove",
+          "delete",
+          "recycle",
+          "dispose"
+        ],
         "defaultCode": 59820,
         "grid": 16
       },
@@ -4433,7 +5304,14 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["bin", "trashcan", "remove", "delete", "recycle", "dispose"],
+        "tags": [
+          "bin",
+          "trashcan",
+          "remove",
+          "delete",
+          "recycle",
+          "dispose"
+        ],
         "defaultCode": 59821,
         "grid": 16
       },
@@ -4458,7 +5336,14 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["briefcase", "portfolio", "suitcase", "work", "job", "employee"],
+        "tags": [
+          "briefcase",
+          "portfolio",
+          "suitcase",
+          "work",
+          "job",
+          "employee"
+        ],
         "defaultCode": 59822,
         "grid": 16
       },
@@ -4483,7 +5368,15 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["airplane", "travel", "flight", "plane", "transport", "fly", "vacation"],
+        "tags": [
+          "airplane",
+          "travel",
+          "flight",
+          "plane",
+          "transport",
+          "fly",
+          "vacation"
+        ],
         "defaultCode": 59823,
         "grid": 16
       },
@@ -4508,7 +5401,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["truck", "transit", "transport", "delivery", "vehicle"],
+        "tags": [
+          "truck",
+          "transit",
+          "transport",
+          "delivery",
+          "vehicle"
+        ],
         "defaultCode": 59824,
         "grid": 16
       },
@@ -4533,7 +5432,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["road", "asphalt", "travel"],
+        "tags": [
+          "road",
+          "asphalt",
+          "travel"
+        ],
         "defaultCode": 59825,
         "grid": 16
       },
@@ -4559,7 +5462,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["accessibility"],
+        "tags": [
+          "accessibility"
+        ],
         "defaultCode": 59826,
         "grid": 16
       },
@@ -4584,7 +5489,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["target", "goal", "location", "spot"],
+        "tags": [
+          "target",
+          "goal",
+          "location",
+          "spot"
+        ],
         "defaultCode": 59827,
         "grid": 16
       },
@@ -4609,7 +5519,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["shield", "security", "defense", "protection", "anti virus"],
+        "tags": [
+          "shield",
+          "security",
+          "defense",
+          "protection",
+          "anti virus"
+        ],
         "defaultCode": 59828,
         "grid": 16
       },
@@ -4628,11 +5544,18 @@
     },
     {
       "icon": {
-        "paths": ["M384 0l-384 512h384l-256 512 896-640h-512l384-384z"],
+        "paths": [
+          "M384 0l-384 512h384l-256 512 896-640h-512l384-384z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["power", "lightning", "bolt", "electricity"],
+        "tags": [
+          "power",
+          "lightning",
+          "bolt",
+          "electricity"
+        ],
         "defaultCode": 59829,
         "grid": 16
       },
@@ -4657,7 +5580,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["switch"],
+        "tags": [
+          "switch"
+        ],
         "defaultCode": 59830,
         "grid": 16
       },
@@ -4683,7 +5608,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["power-cord", "plugin", "extension"],
+        "tags": [
+          "power-cord",
+          "plugin",
+          "extension"
+        ],
         "defaultCode": 59831,
         "grid": 16
       },
@@ -4709,7 +5638,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["clipboard", "board", "signup", "register", "agreement"],
+        "tags": [
+          "clipboard",
+          "board",
+          "signup",
+          "register",
+          "agreement"
+        ],
         "defaultCode": 59832,
         "grid": 16
       },
@@ -4734,7 +5669,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["list-numbered", "options"],
+        "tags": [
+          "list-numbered",
+          "options"
+        ],
         "defaultCode": 59833,
         "grid": 16
       },
@@ -4759,7 +5697,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["list", "todo", "bullet", "menu", "options"],
+        "tags": [
+          "list",
+          "todo",
+          "bullet",
+          "menu",
+          "options"
+        ],
         "defaultCode": 59834,
         "grid": 16
       },
@@ -4784,7 +5728,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["list", "todo", "bullet", "menu", "options"],
+        "tags": [
+          "list",
+          "todo",
+          "bullet",
+          "menu",
+          "options"
+        ],
         "defaultCode": 59835,
         "grid": 16
       },
@@ -4809,7 +5759,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["tree", "branches", "inheritance"],
+        "tags": [
+          "tree",
+          "branches",
+          "inheritance"
+        ],
         "defaultCode": 59836,
         "grid": 16
       },
@@ -4828,11 +5782,19 @@
     },
     {
       "icon": {
-        "paths": ["M64 192h896v192h-896zM64 448h896v192h-896zM64 704h896v192h-896z"],
+        "paths": [
+          "M64 192h896v192h-896zM64 448h896v192h-896zM64 704h896v192h-896z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["menu", "list", "options", "lines", "hamburger"],
+        "tags": [
+          "menu",
+          "list",
+          "options",
+          "lines",
+          "hamburger"
+        ],
         "defaultCode": 59837,
         "grid": 16
       },
@@ -4860,7 +5822,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["menu", "options", "hamburger"],
+        "tags": [
+          "menu",
+          "options",
+          "hamburger"
+        ],
         "defaultCode": 59838,
         "grid": 16
       },
@@ -4887,7 +5853,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["menu", "options", "hamburger"],
+        "tags": [
+          "menu",
+          "options",
+          "hamburger"
+        ],
         "defaultCode": 59839,
         "grid": 16
       },
@@ -4914,7 +5884,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["menu", "options", "hamburger"],
+        "tags": [
+          "menu",
+          "options",
+          "hamburger"
+        ],
         "defaultCode": 59840,
         "grid": 16
       },
@@ -4939,7 +5913,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["cloud", "weather"],
+        "tags": [
+          "cloud",
+          "weather"
+        ],
         "defaultCode": 59841,
         "grid": 16
       },
@@ -4964,7 +5941,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["cloud-download", "cloud", "save", "download"],
+        "tags": [
+          "cloud-download",
+          "cloud",
+          "save",
+          "download"
+        ],
         "defaultCode": 59842,
         "grid": 16
       },
@@ -4989,7 +5971,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["cloud-upload", "cloud", "load", "upload"],
+        "tags": [
+          "cloud-upload",
+          "cloud",
+          "load",
+          "upload"
+        ],
         "defaultCode": 59843,
         "grid": 16
       },
@@ -5014,7 +6001,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["cloud-check", "cloud", "synced"],
+        "tags": [
+          "cloud-check",
+          "cloud",
+          "synced"
+        ],
         "defaultCode": 59844,
         "grid": 16
       },
@@ -5039,7 +6030,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["download", "save", "store"],
+        "tags": [
+          "download",
+          "save",
+          "store"
+        ],
         "defaultCode": 59845,
         "grid": 16
       },
@@ -5064,7 +6059,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["upload", "load", "open"],
+        "tags": [
+          "upload",
+          "load",
+          "open"
+        ],
         "defaultCode": 59846,
         "grid": 16
       },
@@ -5089,7 +6088,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["download", "save", "store"],
+        "tags": [
+          "download",
+          "save",
+          "store"
+        ],
         "defaultCode": 59847,
         "grid": 16
       },
@@ -5114,7 +6117,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["upload", "load", "open"],
+        "tags": [
+          "upload",
+          "load",
+          "open"
+        ],
         "defaultCode": 59848,
         "grid": 16
       },
@@ -5139,7 +6146,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["sphere", "globe", "internet"],
+        "tags": [
+          "sphere",
+          "globe",
+          "internet"
+        ],
         "defaultCode": 59849,
         "grid": 16
       },
@@ -5164,7 +6175,15 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["earth", "globe", "language", "web", "internet", "sphere", "planet"],
+        "tags": [
+          "earth",
+          "globe",
+          "language",
+          "web",
+          "internet",
+          "sphere",
+          "planet"
+        ],
         "defaultCode": 59850,
         "grid": 16
       },
@@ -5190,7 +6209,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["link", "chain", "url", "uri", "anchor"],
+        "tags": [
+          "link",
+          "chain",
+          "url",
+          "uri",
+          "anchor"
+        ],
         "defaultCode": 59851,
         "grid": 16
       },
@@ -5217,7 +6242,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["flag", "report", "mark"],
+        "tags": [
+          "flag",
+          "report",
+          "mark"
+        ],
         "defaultCode": 59852,
         "grid": 16
       },
@@ -5242,7 +6271,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["attachment", "paperclip"],
+        "tags": [
+          "attachment",
+          "paperclip"
+        ],
         "defaultCode": 59853,
         "grid": 16
       },
@@ -5267,7 +6299,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["eye", "views", "vision", "visit"],
+        "tags": [
+          "eye",
+          "views",
+          "vision",
+          "visit"
+        ],
         "defaultCode": 59854,
         "grid": 16
       },
@@ -5293,7 +6330,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["eye-plus", "views", "vision", "visit"],
+        "tags": [
+          "eye-plus",
+          "views",
+          "vision",
+          "visit"
+        ],
         "defaultCode": 59855,
         "grid": 16
       },
@@ -5319,7 +6361,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["eye-minus", "views", "vision", "visit"],
+        "tags": [
+          "eye-minus",
+          "views",
+          "vision",
+          "visit"
+        ],
         "defaultCode": 59856,
         "grid": 16
       },
@@ -5374,11 +6421,16 @@
     },
     {
       "icon": {
-        "paths": ["M192 0v1024l320-320 320 320v-1024z"],
+        "paths": [
+          "M192 0v1024l320-320 320 320v-1024z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["bookmark", "ribbon"],
+        "tags": [
+          "bookmark",
+          "ribbon"
+        ],
         "defaultCode": 59858,
         "grid": 16
       },
@@ -5397,11 +6449,16 @@
     },
     {
       "icon": {
-        "paths": ["M256 128v896l320-320 320 320v-896zM768 0h-640v896l64-64v-768h576z"],
+        "paths": [
+          "M256 128v896l320-320 320 320v-896zM768 0h-640v896l64-64v-768h576z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["bookmarks", "ribbons"],
+        "tags": [
+          "bookmarks",
+          "ribbons"
+        ],
         "defaultCode": 59859,
         "grid": 16
       },
@@ -5427,7 +6484,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["sun", "weather"],
+        "tags": [
+          "sun",
+          "weather"
+        ],
         "defaultCode": 59860,
         "grid": 16
       },
@@ -5452,7 +6512,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["contrast"],
+        "tags": [
+          "contrast"
+        ],
         "defaultCode": 59861,
         "grid": 16
       },
@@ -5477,7 +6539,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["brightness-contrast"],
+        "tags": [
+          "brightness-contrast"
+        ],
         "defaultCode": 59862,
         "grid": 16
       },
@@ -5502,7 +6566,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["star-empty", "rate", "star", "favorite", "bookmark"],
+        "tags": [
+          "star-empty",
+          "rate",
+          "star",
+          "favorite",
+          "bookmark"
+        ],
         "defaultCode": 59863,
         "grid": 16
       },
@@ -5527,7 +6597,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["star-half", "rate", "star"],
+        "tags": [
+          "star-half",
+          "rate",
+          "star"
+        ],
         "defaultCode": 59864,
         "grid": 16
       },
@@ -5552,7 +6626,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["star-full", "rate", "star", "favorite", "bookmark"],
+        "tags": [
+          "star-full",
+          "rate",
+          "star",
+          "favorite",
+          "bookmark"
+        ],
         "defaultCode": 59865,
         "grid": 16
       },
@@ -5577,7 +6657,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["heart", "like", "love", "favorite"],
+        "tags": [
+          "heart",
+          "like",
+          "love",
+          "favorite"
+        ],
         "defaultCode": 59866,
         "grid": 16
       },
@@ -5602,7 +6687,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["heart-broken", "heart", "like", "love"],
+        "tags": [
+          "heart-broken",
+          "heart",
+          "like",
+          "love"
+        ],
         "defaultCode": 59867,
         "grid": 16
       },
@@ -5628,7 +6718,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["man", "male", "gender", "sex"],
+        "tags": [
+          "man",
+          "male",
+          "gender",
+          "sex"
+        ],
         "defaultCode": 59868,
         "grid": 16
       },
@@ -5654,7 +6749,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["woman", "female", "gender", "sex"],
+        "tags": [
+          "woman",
+          "female",
+          "gender",
+          "sex"
+        ],
         "defaultCode": 59869,
         "grid": 16
       },
@@ -5682,7 +6782,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["man-woman", "toilet", "bathroom", "sex", "gender"],
+        "tags": [
+          "man-woman",
+          "toilet",
+          "bathroom",
+          "sex",
+          "gender"
+        ],
         "defaultCode": 59870,
         "grid": 16
       },
@@ -5707,7 +6813,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["happy", "emoticon", "smiley", "face"],
+        "tags": [
+          "happy",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59871,
         "grid": 16
       },
@@ -5732,7 +6843,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["happy", "emoticon", "smiley", "face"],
+        "tags": [
+          "happy",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59872,
         "grid": 16
       },
@@ -5757,7 +6873,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["smile", "emoticon", "smiley", "face"],
+        "tags": [
+          "smile",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59873,
         "grid": 16
       },
@@ -5782,7 +6903,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["smile", "emoticon", "smiley", "face"],
+        "tags": [
+          "smile",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59874,
         "grid": 16
       },
@@ -5807,7 +6933,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["tongue", "emoticon", "smiley", "face"],
+        "tags": [
+          "tongue",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59875,
         "grid": 16
       },
@@ -5832,7 +6963,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["tongue", "emoticon", "smiley", "face"],
+        "tags": [
+          "tongue",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59876,
         "grid": 16
       },
@@ -5857,7 +6993,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["sad", "emoticon", "smiley", "face"],
+        "tags": [
+          "sad",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59877,
         "grid": 16
       },
@@ -5882,7 +7023,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["sad", "emoticon", "smiley", "face"],
+        "tags": [
+          "sad",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59878,
         "grid": 16
       },
@@ -5907,7 +7053,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["wink", "emoticon", "smiley", "face"],
+        "tags": [
+          "wink",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59879,
         "grid": 16
       },
@@ -5932,7 +7083,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["wink", "emoticon", "smiley", "face"],
+        "tags": [
+          "wink",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59880,
         "grid": 16
       },
@@ -5957,7 +7113,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["grin", "emoticon", "smiley", "face"],
+        "tags": [
+          "grin",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59881,
         "grid": 16
       },
@@ -5982,7 +7143,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["grin", "emoticon", "smiley", "face"],
+        "tags": [
+          "grin",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59882,
         "grid": 16
       },
@@ -6007,7 +7173,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["cool", "emoticon", "smiley", "face"],
+        "tags": [
+          "cool",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59883,
         "grid": 16
       },
@@ -6032,7 +7203,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["cool", "emoticon", "smiley", "face"],
+        "tags": [
+          "cool",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59884,
         "grid": 16
       },
@@ -6057,7 +7233,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["angry", "emoticon", "smiley", "face", "rage"],
+        "tags": [
+          "angry",
+          "emoticon",
+          "smiley",
+          "face",
+          "rage"
+        ],
         "defaultCode": 59885,
         "grid": 16
       },
@@ -6082,7 +7264,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["angry", "emoticon", "smiley", "face", "rage"],
+        "tags": [
+          "angry",
+          "emoticon",
+          "smiley",
+          "face",
+          "rage"
+        ],
         "defaultCode": 59886,
         "grid": 16
       },
@@ -6107,7 +7295,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["evil", "emoticon", "smiley", "face"],
+        "tags": [
+          "evil",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59887,
         "grid": 16
       },
@@ -6132,7 +7325,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["evil", "emoticon", "smiley", "face"],
+        "tags": [
+          "evil",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59888,
         "grid": 16
       },
@@ -6157,7 +7355,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["shocked", "emoticon", "smiley", "face"],
+        "tags": [
+          "shocked",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59889,
         "grid": 16
       },
@@ -6182,7 +7385,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["shocked", "emoticon", "smiley", "face"],
+        "tags": [
+          "shocked",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59890,
         "grid": 16
       },
@@ -6212,7 +7420,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["baffled", "emoticon", "smiley", "shocked", "face"],
+        "tags": [
+          "baffled",
+          "emoticon",
+          "smiley",
+          "shocked",
+          "face"
+        ],
         "defaultCode": 59891,
         "grid": 16
       },
@@ -6239,7 +7453,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["baffled", "emoticon", "smiley", "shocked", "face"],
+        "tags": [
+          "baffled",
+          "emoticon",
+          "smiley",
+          "shocked",
+          "face"
+        ],
         "defaultCode": 59892,
         "grid": 16
       },
@@ -6264,7 +7484,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["confused", "emoticon", "smiley", "face", "bewildered"],
+        "tags": [
+          "confused",
+          "emoticon",
+          "smiley",
+          "face",
+          "bewildered"
+        ],
         "defaultCode": 59893,
         "grid": 16
       },
@@ -6289,7 +7515,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["confused", "emoticon", "smiley", "face", "bewildered"],
+        "tags": [
+          "confused",
+          "emoticon",
+          "smiley",
+          "face",
+          "bewildered"
+        ],
         "defaultCode": 59894,
         "grid": 16
       },
@@ -6314,7 +7546,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["neutral", "emoticon", "smiley", "face"],
+        "tags": [
+          "neutral",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59895,
         "grid": 16
       },
@@ -6339,7 +7576,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["neutral", "emoticon", "smiley", "face"],
+        "tags": [
+          "neutral",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59896,
         "grid": 16
       },
@@ -6366,7 +7608,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["hipster", "emoticon", "smiley", "mustache", "face"],
+        "tags": [
+          "hipster",
+          "emoticon",
+          "smiley",
+          "mustache",
+          "face"
+        ],
         "defaultCode": 59897,
         "grid": 16
       },
@@ -6391,7 +7639,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["hipster", "emoticon", "smiley", "mustache", "face"],
+        "tags": [
+          "hipster",
+          "emoticon",
+          "smiley",
+          "mustache",
+          "face"
+        ],
         "defaultCode": 59898,
         "grid": 16
       },
@@ -6416,7 +7670,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["wondering", "emoticon", "smiley", "face", "question"],
+        "tags": [
+          "wondering",
+          "emoticon",
+          "smiley",
+          "face",
+          "question"
+        ],
         "defaultCode": 59899,
         "grid": 16
       },
@@ -6441,7 +7701,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["wondering", "emoticon", "smiley", "face", "question"],
+        "tags": [
+          "wondering",
+          "emoticon",
+          "smiley",
+          "face",
+          "question"
+        ],
         "defaultCode": 59900,
         "grid": 16
       },
@@ -6469,7 +7735,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["sleepy", "emoticon", "smiley", "face"],
+        "tags": [
+          "sleepy",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59901,
         "grid": 16
       },
@@ -6494,7 +7765,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["sleepy", "emoticon", "smiley", "face"],
+        "tags": [
+          "sleepy",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59902,
         "grid": 16
       },
@@ -6521,7 +7797,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["frustrated", "emoticon", "smiley", "face", "angry"],
+        "tags": [
+          "frustrated",
+          "emoticon",
+          "smiley",
+          "face",
+          "angry"
+        ],
         "defaultCode": 59903,
         "grid": 16
       },
@@ -6549,7 +7831,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["frustrated", "emoticon", "smiley", "face", "angry"],
+        "tags": [
+          "frustrated",
+          "emoticon",
+          "smiley",
+          "face",
+          "angry"
+        ],
         "defaultCode": 59904,
         "grid": 16
       },
@@ -6581,7 +7869,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["crying", "emoticon", "smiley", "face"],
+        "tags": [
+          "crying",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59905,
         "grid": 16
       },
@@ -6606,7 +7899,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["crying", "emoticon", "smiley", "face"],
+        "tags": [
+          "crying",
+          "emoticon",
+          "smiley",
+          "face"
+        ],
         "defaultCode": 59906,
         "grid": 16
       },
@@ -6631,7 +7929,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["point-up", "finger", "direction", "hand"],
+        "tags": [
+          "point-up",
+          "finger",
+          "direction",
+          "hand"
+        ],
         "defaultCode": 59907,
         "grid": 16
       },
@@ -6656,7 +7959,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["point-right", "finger", "direction", "hand"],
+        "tags": [
+          "point-right",
+          "finger",
+          "direction",
+          "hand"
+        ],
         "defaultCode": 59908,
         "grid": 16
       },
@@ -6681,7 +7989,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["point-down", "finger", "direction", "hand"],
+        "tags": [
+          "point-down",
+          "finger",
+          "direction",
+          "hand"
+        ],
         "defaultCode": 59909,
         "grid": 16
       },
@@ -6706,7 +8019,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["point-left", "finger", "direction", "hand"],
+        "tags": [
+          "point-left",
+          "finger",
+          "direction",
+          "hand"
+        ],
         "defaultCode": 59910,
         "grid": 16
       },
@@ -6733,7 +8051,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["warning", "sign"],
+        "tags": [
+          "warning",
+          "sign"
+        ],
         "defaultCode": 59911,
         "grid": 16
       },
@@ -6758,7 +8079,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["notification", "warning", "notice", "note", "exclamation"],
+        "tags": [
+          "notification",
+          "warning",
+          "notice",
+          "note",
+          "exclamation"
+        ],
         "defaultCode": 59912,
         "grid": 16
       },
@@ -6783,7 +8110,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["question", "help", "support"],
+        "tags": [
+          "question",
+          "help",
+          "support"
+        ],
         "defaultCode": 59913,
         "grid": 16
       },
@@ -6808,7 +8139,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["plus", "add", "sum"],
+        "tags": [
+          "plus",
+          "add",
+          "sum"
+        ],
         "defaultCode": 59914,
         "grid": 16
       },
@@ -6833,7 +8168,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["minus", "subtract", "minimize", "line"],
+        "tags": [
+          "minus",
+          "subtract",
+          "minimize",
+          "line"
+        ],
         "defaultCode": 59915,
         "grid": 16
       },
@@ -6860,7 +8200,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["info", "information"],
+        "tags": [
+          "info",
+          "information"
+        ],
         "defaultCode": 59916,
         "grid": 16
       },
@@ -6886,7 +8229,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["cancel-circle", "close", "remove", "delete"],
+        "tags": [
+          "cancel-circle",
+          "close",
+          "remove",
+          "delete"
+        ],
         "defaultCode": 59917,
         "grid": 16
       },
@@ -6911,7 +8259,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["blocked", "forbidden", "denied", "banned"],
+        "tags": [
+          "blocked",
+          "forbidden",
+          "denied",
+          "banned"
+        ],
         "defaultCode": 59918,
         "grid": 16
       },
@@ -6936,7 +8289,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["cross", "cancel", "close", "quit", "remove"],
+        "tags": [
+          "cross",
+          "cancel",
+          "close",
+          "quit",
+          "remove"
+        ],
         "defaultCode": 59919,
         "grid": 16
       },
@@ -6955,11 +8314,19 @@
     },
     {
       "icon": {
-        "paths": ["M864 128l-480 480-224-224-160 160 384 384 640-640z"],
+        "paths": [
+          "M864 128l-480 480-224-224-160 160 384 384 640-640z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["checkmark", "tick", "correct", "accept", "ok"],
+        "tags": [
+          "checkmark",
+          "tick",
+          "correct",
+          "accept",
+          "ok"
+        ],
         "defaultCode": 59920,
         "grid": 16
       },
@@ -6984,7 +8351,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["checkmark", "tick", "correct", "accept", "ok"],
+        "tags": [
+          "checkmark",
+          "tick",
+          "correct",
+          "accept",
+          "ok"
+        ],
         "defaultCode": 59921,
         "grid": 16
       },
@@ -7009,7 +8382,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["spell-check", "spelling", "correct"],
+        "tags": [
+          "spell-check",
+          "spelling",
+          "correct"
+        ],
         "defaultCode": 59922,
         "grid": 16
       },
@@ -7034,7 +8411,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["enter", "signin", "login"],
+        "tags": [
+          "enter",
+          "signin",
+          "login"
+        ],
         "defaultCode": 59923,
         "grid": 16
       },
@@ -7059,7 +8440,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["exit", "signout", "logout", "quit", "close"],
+        "tags": [
+          "exit",
+          "signout",
+          "logout",
+          "quit",
+          "close"
+        ],
         "defaultCode": 59924,
         "grid": 16
       },
@@ -7084,7 +8471,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["play", "player"],
+        "tags": [
+          "play",
+          "player"
+        ],
         "defaultCode": 59925,
         "grid": 16
       },
@@ -7109,7 +8499,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["pause", "player"],
+        "tags": [
+          "pause",
+          "player"
+        ],
         "defaultCode": 59926,
         "grid": 16
       },
@@ -7134,7 +8527,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["stop", "player"],
+        "tags": [
+          "stop",
+          "player"
+        ],
         "defaultCode": 59927,
         "grid": 16
       },
@@ -7161,7 +8557,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["previous", "player"],
+        "tags": [
+          "previous",
+          "player"
+        ],
         "defaultCode": 59928,
         "grid": 16
       },
@@ -7188,7 +8587,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["next", "player"],
+        "tags": [
+          "next",
+          "player"
+        ],
         "defaultCode": 59929,
         "grid": 16
       },
@@ -7213,7 +8615,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["backward", "player"],
+        "tags": [
+          "backward",
+          "player"
+        ],
         "defaultCode": 59930,
         "grid": 16
       },
@@ -7238,7 +8643,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["forward", "player"],
+        "tags": [
+          "forward",
+          "player"
+        ],
         "defaultCode": 59931,
         "grid": 16
       },
@@ -7257,11 +8665,16 @@
     },
     {
       "icon": {
-        "paths": ["M192 128l640 384-640 384z"],
+        "paths": [
+          "M192 128l640 384-640 384z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["play", "player"],
+        "tags": [
+          "play",
+          "player"
+        ],
         "defaultCode": 59932,
         "grid": 16
       },
@@ -7280,11 +8693,16 @@
     },
     {
       "icon": {
-        "paths": ["M128 128h320v768h-320zM576 128h320v768h-320z"],
+        "paths": [
+          "M128 128h320v768h-320zM576 128h320v768h-320z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["pause", "player"],
+        "tags": [
+          "pause",
+          "player"
+        ],
         "defaultCode": 59933,
         "grid": 16
       },
@@ -7303,11 +8721,17 @@
     },
     {
       "icon": {
-        "paths": ["M128 128h768v768h-768z"],
+        "paths": [
+          "M128 128h768v768h-768z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["stop", "player", "square"],
+        "tags": [
+          "stop",
+          "player",
+          "square"
+        ],
         "defaultCode": 59934,
         "grid": 16
       },
@@ -7326,11 +8750,16 @@
     },
     {
       "icon": {
-        "paths": ["M576 160v320l320-320v704l-320-320v320l-352-352z"],
+        "paths": [
+          "M576 160v320l320-320v704l-320-320v320l-352-352z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["backward", "player"],
+        "tags": [
+          "backward",
+          "player"
+        ],
         "defaultCode": 59935,
         "grid": 16
       },
@@ -7349,11 +8778,16 @@
     },
     {
       "icon": {
-        "paths": ["M512 864v-320l-320 320v-704l320 320v-320l352 352z"],
+        "paths": [
+          "M512 864v-320l-320 320v-704l320 320v-320l352 352z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["forward", "player"],
+        "tags": [
+          "forward",
+          "player"
+        ],
         "defaultCode": 59936,
         "grid": 16
       },
@@ -7372,11 +8806,16 @@
     },
     {
       "icon": {
-        "paths": ["M128 896v-768h128v352l320-320v320l320-320v704l-320-320v320l-320-320v352z"],
+        "paths": [
+          "M128 896v-768h128v352l320-320v320l320-320v704l-320-320v320l-320-320v352z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["first", "player"],
+        "tags": [
+          "first",
+          "player"
+        ],
         "defaultCode": 59937,
         "grid": 16
       },
@@ -7395,11 +8834,16 @@
     },
     {
       "icon": {
-        "paths": ["M896 128v768h-128v-352l-320 320v-320l-320 320v-704l320 320v-320l320 320v-352z"],
+        "paths": [
+          "M896 128v768h-128v-352l-320 320v-320l-320 320v-704l320 320v-320l320 320v-352z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["last", "player"],
+        "tags": [
+          "last",
+          "player"
+        ],
         "defaultCode": 59938,
         "grid": 16
       },
@@ -7418,11 +8862,16 @@
     },
     {
       "icon": {
-        "paths": ["M256 896v-768h128v352l320-320v704l-320-320v352z"],
+        "paths": [
+          "M256 896v-768h128v352l320-320v704l-320-320v352z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["previous", "player"],
+        "tags": [
+          "previous",
+          "player"
+        ],
         "defaultCode": 59939,
         "grid": 16
       },
@@ -7441,11 +8890,16 @@
     },
     {
       "icon": {
-        "paths": ["M768 128v768h-128v-352l-320 320v-704l320 320v-352z"],
+        "paths": [
+          "M768 128v768h-128v-352l-320 320v-704l320 320v-352z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["next", "player"],
+        "tags": [
+          "next",
+          "player"
+        ],
         "defaultCode": 59940,
         "grid": 16
       },
@@ -7464,11 +8918,16 @@
     },
     {
       "icon": {
-        "paths": ["M0 768h1024v128h-1024zM512 128l512 512h-1024z"],
+        "paths": [
+          "M0 768h1024v128h-1024zM512 128l512 512h-1024z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["eject", "player"],
+        "tags": [
+          "eject",
+          "player"
+        ],
         "defaultCode": 59941,
         "grid": 16
       },
@@ -7495,7 +8954,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["volume-high", "volume", "audio", "speaker", "player"],
+        "tags": [
+          "volume-high",
+          "volume",
+          "audio",
+          "speaker",
+          "player"
+        ],
         "defaultCode": 59942,
         "grid": 16
       },
@@ -7521,7 +8986,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["volume-medium", "volume", "audio", "speaker", "player"],
+        "tags": [
+          "volume-medium",
+          "volume",
+          "audio",
+          "speaker",
+          "player"
+        ],
         "defaultCode": 59943,
         "grid": 16
       },
@@ -7547,7 +9018,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["volume-low", "volume", "audio", "speaker", "player"],
+        "tags": [
+          "volume-low",
+          "volume",
+          "audio",
+          "speaker",
+          "player"
+        ],
         "defaultCode": 59944,
         "grid": 16
       },
@@ -7572,7 +9049,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["volume-mute", "volume", "audio", "speaker", "player"],
+        "tags": [
+          "volume-mute",
+          "volume",
+          "audio",
+          "speaker",
+          "player"
+        ],
         "defaultCode": 59945,
         "grid": 16
       },
@@ -7598,7 +9081,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["volume-mute", "volume", "audio", "player"],
+        "tags": [
+          "volume-mute",
+          "volume",
+          "audio",
+          "player"
+        ],
         "defaultCode": 59946,
         "grid": 16
       },
@@ -7624,7 +9112,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["volume-increase", "volume", "audio", "speaker", "player"],
+        "tags": [
+          "volume-increase",
+          "volume",
+          "audio",
+          "speaker",
+          "player"
+        ],
         "defaultCode": 59947,
         "grid": 16
       },
@@ -7650,7 +9144,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["volume-decrease", "volume", "audio", "speaker", "player"],
+        "tags": [
+          "volume-decrease",
+          "volume",
+          "audio",
+          "speaker",
+          "player"
+        ],
         "defaultCode": 59948,
         "grid": 16
       },
@@ -7675,7 +9175,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["loop", "repeat", "player"],
+        "tags": [
+          "loop",
+          "repeat",
+          "player"
+        ],
         "defaultCode": 59949,
         "grid": 16
       },
@@ -7735,7 +9239,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["infinite"],
+        "tags": [
+          "infinite"
+        ],
         "defaultCode": 59951,
         "grid": 16
       },
@@ -7760,7 +9266,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["shuffle", "random", "player"],
+        "tags": [
+          "shuffle",
+          "random",
+          "player"
+        ],
         "defaultCode": 59952,
         "grid": 16
       },
@@ -7779,11 +9289,17 @@
     },
     {
       "icon": {
-        "paths": ["M0 736l256-256 544 544 224-224-544-544 255.998-256h-735.998v736z"],
+        "paths": [
+          "M0 736l256-256 544 544 224-224-544-544 255.998-256h-735.998v736z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["arrow-up-left", "up-left", "arrow-top-left"],
+        "tags": [
+          "arrow-up-left",
+          "up-left",
+          "arrow-top-left"
+        ],
         "defaultCode": 59953,
         "grid": 16
       },
@@ -7802,11 +9318,18 @@
     },
     {
       "icon": {
-        "paths": ["M512 32l-480 480h288v512h384v-512h288z"],
+        "paths": [
+          "M512 32l-480 480h288v512h384v-512h288z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["arrow-up", "up", "upload", "top"],
+        "tags": [
+          "arrow-up",
+          "up",
+          "upload",
+          "top"
+        ],
         "defaultCode": 59954,
         "grid": 16
       },
@@ -7825,11 +9348,17 @@
     },
     {
       "icon": {
-        "paths": ["M288 0l256 256-544 544 224 224 544-544 256 255.998v-735.998h-736z"],
+        "paths": [
+          "M288 0l256 256-544 544 224 224 544-544 256 255.998v-735.998h-736z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["arrow-up-right", "up-right", "arrow-top-right"],
+        "tags": [
+          "arrow-up-right",
+          "up-right",
+          "arrow-top-right"
+        ],
         "defaultCode": 59955,
         "grid": 16
       },
@@ -7848,11 +9377,17 @@
     },
     {
       "icon": {
-        "paths": ["M992 512l-480-480v288h-512v384h512v288z"],
+        "paths": [
+          "M992 512l-480-480v288h-512v384h512v288z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["arrow-right", "right", "next"],
+        "tags": [
+          "arrow-right",
+          "right",
+          "next"
+        ],
         "defaultCode": 59956,
         "grid": 16
       },
@@ -7871,11 +9406,17 @@
     },
     {
       "icon": {
-        "paths": ["M1024 288l-256 256-544-544-224 224 544 544-255.998 256h735.998v-736z"],
+        "paths": [
+          "M1024 288l-256 256-544-544-224 224 544 544-255.998 256h735.998v-736z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["arrow-down-right", "down-right", "arrow-bottom-right"],
+        "tags": [
+          "arrow-down-right",
+          "down-right",
+          "arrow-bottom-right"
+        ],
         "defaultCode": 59957,
         "grid": 16
       },
@@ -7894,11 +9435,18 @@
     },
     {
       "icon": {
-        "paths": ["M512 992l480-480h-288v-512h-384v512h-288z"],
+        "paths": [
+          "M512 992l480-480h-288v-512h-384v512h-288z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["arrow-down", "down", "download", "bottom"],
+        "tags": [
+          "arrow-down",
+          "down",
+          "download",
+          "bottom"
+        ],
         "defaultCode": 59958,
         "grid": 16
       },
@@ -7917,11 +9465,17 @@
     },
     {
       "icon": {
-        "paths": ["M736 1024l-256-256 544-544-224-224-544 544-256-255.998v735.998h736z"],
+        "paths": [
+          "M736 1024l-256-256 544-544-224-224-544 544-256-255.998v735.998h736z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["arrow-down-left", "down-left", "arrow-bottom-left"],
+        "tags": [
+          "arrow-down-left",
+          "down-left",
+          "arrow-bottom-left"
+        ],
         "defaultCode": 59959,
         "grid": 16
       },
@@ -7940,11 +9494,17 @@
     },
     {
       "icon": {
-        "paths": ["M32 512l480 480v-288h512v-384h-512v-288z"],
+        "paths": [
+          "M32 512l480 480v-288h512v-384h-512v-288z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["arrow-left", "left", "previous"],
+        "tags": [
+          "arrow-left",
+          "left",
+          "previous"
+        ],
         "defaultCode": 59960,
         "grid": 16
       },
@@ -7969,7 +9529,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["arrow-up-left", "up-left", "arrow-top-left"],
+        "tags": [
+          "arrow-up-left",
+          "up-left",
+          "arrow-top-left"
+        ],
         "defaultCode": 59961,
         "grid": 16
       },
@@ -7994,7 +9558,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["arrow-up", "up", "upload", "top"],
+        "tags": [
+          "arrow-up",
+          "up",
+          "upload",
+          "top"
+        ],
         "defaultCode": 59962,
         "grid": 16
       },
@@ -8019,7 +9588,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["arrow-up-right", "up-right", "arrow-top-right"],
+        "tags": [
+          "arrow-up-right",
+          "up-right",
+          "arrow-top-right"
+        ],
         "defaultCode": 59963,
         "grid": 16
       },
@@ -8044,7 +9617,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["arrow-right", "right", "next"],
+        "tags": [
+          "arrow-right",
+          "right",
+          "next"
+        ],
         "defaultCode": 59964,
         "grid": 16
       },
@@ -8069,7 +9646,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["arrow-down-right", "down-right", "arrow-bottom-right"],
+        "tags": [
+          "arrow-down-right",
+          "down-right",
+          "arrow-bottom-right"
+        ],
         "defaultCode": 59965,
         "grid": 16
       },
@@ -8094,7 +9675,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["arrow-down", "down", "download", "bottom"],
+        "tags": [
+          "arrow-down",
+          "down",
+          "download",
+          "bottom"
+        ],
         "defaultCode": 59966,
         "grid": 16
       },
@@ -8119,7 +9705,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["arrow-down-left", "down-left", "arrow-bottom-left"],
+        "tags": [
+          "arrow-down-left",
+          "down-left",
+          "arrow-bottom-left"
+        ],
         "defaultCode": 59967,
         "grid": 16
       },
@@ -8144,7 +9734,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["arrow-left", "left", "previous"],
+        "tags": [
+          "arrow-left",
+          "left",
+          "previous"
+        ],
         "defaultCode": 59968,
         "grid": 16
       },
@@ -8170,7 +9764,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["circle-up", "up", "circle-top", "arrow"],
+        "tags": [
+          "circle-up",
+          "up",
+          "circle-top",
+          "arrow"
+        ],
         "defaultCode": 59969,
         "grid": 16
       },
@@ -8196,7 +9795,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["circle-right", "right", "circle-next", "arrow"],
+        "tags": [
+          "circle-right",
+          "right",
+          "circle-next",
+          "arrow"
+        ],
         "defaultCode": 59970,
         "grid": 16
       },
@@ -8222,7 +9826,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["circle-down", "down", "circle-bottom", "arrow"],
+        "tags": [
+          "circle-down",
+          "down",
+          "circle-bottom",
+          "arrow"
+        ],
         "defaultCode": 59971,
         "grid": 16
       },
@@ -8248,7 +9857,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["circle-left", "left", "circle-previous", "arrow"],
+        "tags": [
+          "circle-left",
+          "left",
+          "circle-previous",
+          "arrow"
+        ],
         "defaultCode": 59972,
         "grid": 16
       },
@@ -8276,7 +9890,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["tab", "arrows"],
+        "tags": [
+          "tab",
+          "arrows"
+        ],
         "defaultCode": 59973,
         "grid": 16
       },
@@ -8310,7 +9927,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["move-up", "sort", "arrange"],
+        "tags": [
+          "move-up",
+          "sort",
+          "arrange"
+        ],
         "defaultCode": 59974,
         "grid": 16
       },
@@ -8344,7 +9965,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["move-down", "sort", "arrange"],
+        "tags": [
+          "move-down",
+          "sort",
+          "arrange"
+        ],
         "defaultCode": 59975,
         "grid": 16
       },
@@ -8371,7 +9996,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["sort-alpha-asc", "arrange", "alphabetic"],
+        "tags": [
+          "sort-alpha-asc",
+          "arrange",
+          "alphabetic"
+        ],
         "defaultCode": 59976,
         "grid": 16
       },
@@ -8398,7 +10027,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["sort-alpha-desc", "arrange", "alphabetic"],
+        "tags": [
+          "sort-alpha-desc",
+          "arrange",
+          "alphabetic"
+        ],
         "defaultCode": 59977,
         "grid": 16
       },
@@ -8425,7 +10058,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["sort-numeric-asc", "arrange"],
+        "tags": [
+          "sort-numeric-asc",
+          "arrange"
+        ],
         "defaultCode": 59978,
         "grid": 16
       },
@@ -8452,7 +10088,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["sort-numberic-desc", "arrange"],
+        "tags": [
+          "sort-numberic-desc",
+          "arrange"
+        ],
         "defaultCode": 59979,
         "grid": 16
       },
@@ -8481,7 +10120,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["sort-amount-asc", "arrange"],
+        "tags": [
+          "sort-amount-asc",
+          "arrange"
+        ],
         "defaultCode": 59980,
         "grid": 16
       },
@@ -8510,7 +10152,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["sort-amount-desc", "arrange"],
+        "tags": [
+          "sort-amount-desc",
+          "arrange"
+        ],
         "defaultCode": 59981,
         "grid": 16
       },
@@ -8535,7 +10180,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["command", "cmd"],
+        "tags": [
+          "command",
+          "cmd"
+        ],
         "defaultCode": 59982,
         "grid": 16
       },
@@ -8560,7 +10208,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["shift"],
+        "tags": [
+          "shift"
+        ],
         "defaultCode": 59983,
         "grid": 16
       },
@@ -8585,7 +10235,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["ctrl", "control"],
+        "tags": [
+          "ctrl",
+          "control"
+        ],
         "defaultCode": 59984,
         "grid": 16
       },
@@ -8611,7 +10264,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["opt", "option", "alt"],
+        "tags": [
+          "opt",
+          "option",
+          "alt"
+        ],
         "defaultCode": 59985,
         "grid": 16
       },
@@ -8636,7 +10293,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["checkbox-checked", "checkbox", "tick", "checked", "selected"],
+        "tags": [
+          "checkbox-checked",
+          "checkbox",
+          "tick",
+          "checked",
+          "selected"
+        ],
         "defaultCode": 59986,
         "grid": 16
       },
@@ -8661,7 +10324,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["checkbox-unchecked", "checkbox", "unchecked", "square"],
+        "tags": [
+          "checkbox-unchecked",
+          "checkbox",
+          "unchecked",
+          "square"
+        ],
         "defaultCode": 59987,
         "grid": 16
       },
@@ -8686,7 +10354,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["radio-checked", "radio-button"],
+        "tags": [
+          "radio-checked",
+          "radio-button"
+        ],
         "defaultCode": 59988,
         "grid": 16
       },
@@ -8711,7 +10382,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["radio-checked", "radio-button"],
+        "tags": [
+          "radio-checked",
+          "radio-button"
+        ],
         "defaultCode": 59989,
         "grid": 16
       },
@@ -8736,7 +10410,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["radio-unchecked", "radio-button", "circle"],
+        "tags": [
+          "radio-unchecked",
+          "radio-button",
+          "circle"
+        ],
         "defaultCode": 59990,
         "grid": 16
       },
@@ -8761,7 +10439,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["crop", "resize", "cut"],
+        "tags": [
+          "crop",
+          "resize",
+          "cut"
+        ],
         "defaultCode": 59991,
         "grid": 16
       },
@@ -8790,7 +10472,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["make-group"],
+        "tags": [
+          "make-group"
+        ],
         "defaultCode": 59992,
         "grid": 16
       },
@@ -8833,7 +10517,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["ungroup"],
+        "tags": [
+          "ungroup"
+        ],
         "defaultCode": 59993,
         "grid": 16
       },
@@ -8858,7 +10544,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["scissors", "cut"],
+        "tags": [
+          "scissors",
+          "cut"
+        ],
         "defaultCode": 59994,
         "grid": 16
       },
@@ -8883,7 +10572,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["filter", "funnel"],
+        "tags": [
+          "filter",
+          "funnel"
+        ],
         "defaultCode": 59995,
         "grid": 16
       },
@@ -8908,7 +10600,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["font", "typeface", "typography", "font-family", "wysiwyg"],
+        "tags": [
+          "font",
+          "typeface",
+          "typography",
+          "font-family",
+          "wysiwyg"
+        ],
         "defaultCode": 59996,
         "grid": 16
       },
@@ -8933,7 +10631,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["ligature", "typography", "font"],
+        "tags": [
+          "ligature",
+          "typography",
+          "font"
+        ],
         "defaultCode": 59997,
         "grid": 16
       },
@@ -8958,7 +10660,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["ligature", "typography", "font"],
+        "tags": [
+          "ligature",
+          "typography",
+          "font"
+        ],
         "defaultCode": 59998,
         "grid": 16
       },
@@ -8983,7 +10689,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["text-height", "wysiwyg"],
+        "tags": [
+          "text-height",
+          "wysiwyg"
+        ],
         "defaultCode": 59999,
         "grid": 16
       },
@@ -9008,7 +10717,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["text-width", "wysiwyg"],
+        "tags": [
+          "text-width",
+          "wysiwyg"
+        ],
         "defaultCode": 60000,
         "grid": 16
       },
@@ -9033,7 +10745,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["font-size", "wysiwyg"],
+        "tags": [
+          "font-size",
+          "wysiwyg"
+        ],
         "defaultCode": 60001,
         "grid": 16
       },
@@ -9058,7 +10773,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["bold", "wysiwyg"],
+        "tags": [
+          "bold",
+          "wysiwyg"
+        ],
         "defaultCode": 60002,
         "grid": 16
       },
@@ -9083,7 +10801,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["underline", "wysiwyg"],
+        "tags": [
+          "underline",
+          "wysiwyg"
+        ],
         "defaultCode": 60003,
         "grid": 16
       },
@@ -9102,11 +10823,16 @@
     },
     {
       "icon": {
-        "paths": ["M896 64v64h-128l-320 768h128v64h-448v-64h128l320-768h-128v-64z"],
+        "paths": [
+          "M896 64v64h-128l-320 768h128v64h-448v-64h128l320-768h-128v-64z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["italic", "wysiwyg"],
+        "tags": [
+          "italic",
+          "wysiwyg"
+        ],
         "defaultCode": 60004,
         "grid": 16
       },
@@ -9131,7 +10857,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["strikethrough", "wysiwyg"],
+        "tags": [
+          "strikethrough",
+          "wysiwyg"
+        ],
         "defaultCode": 60005,
         "grid": 16
       },
@@ -9156,7 +10885,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["omega", "wysiwyg", "symbols"],
+        "tags": [
+          "omega",
+          "wysiwyg",
+          "symbols"
+        ],
         "defaultCode": 60006,
         "grid": 16
       },
@@ -9181,7 +10914,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["sigma", "wysiwyg", "symbols"],
+        "tags": [
+          "sigma",
+          "wysiwyg",
+          "symbols"
+        ],
         "defaultCode": 60007,
         "grid": 16
       },
@@ -9206,7 +10943,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["page-break", "wysiwyg"],
+        "tags": [
+          "page-break",
+          "wysiwyg"
+        ],
         "defaultCode": 60008,
         "grid": 16
       },
@@ -9231,7 +10971,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["superscript", "wysiwyg"],
+        "tags": [
+          "superscript",
+          "wysiwyg"
+        ],
         "defaultCode": 60009,
         "grid": 16
       },
@@ -9256,7 +10999,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["subscript", "wysiwyg"],
+        "tags": [
+          "subscript",
+          "wysiwyg"
+        ],
         "defaultCode": 60010,
         "grid": 16
       },
@@ -9282,7 +11028,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["superscript", "wysiwyg"],
+        "tags": [
+          "superscript",
+          "wysiwyg"
+        ],
         "defaultCode": 60011,
         "grid": 16
       },
@@ -9308,7 +11057,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["subscript", "wysiwyg"],
+        "tags": [
+          "subscript",
+          "wysiwyg"
+        ],
         "defaultCode": 60012,
         "grid": 16
       },
@@ -9333,7 +11085,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["text-color", "wysiwyg"],
+        "tags": [
+          "text-color",
+          "wysiwyg"
+        ],
         "defaultCode": 60013,
         "grid": 16
       },
@@ -9358,7 +11113,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["pagebreak", "wysiwyg"],
+        "tags": [
+          "pagebreak",
+          "wysiwyg"
+        ],
         "defaultCode": 60014,
         "grid": 16
       },
@@ -9383,7 +11141,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["clear-formatting", "wysiwyg", "remove-style"],
+        "tags": [
+          "clear-formatting",
+          "wysiwyg",
+          "remove-style"
+        ],
         "defaultCode": 60015,
         "grid": 16
       },
@@ -9408,7 +11170,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["table", "wysiwyg"],
+        "tags": [
+          "table",
+          "wysiwyg"
+        ],
         "defaultCode": 60016,
         "grid": 16
       },
@@ -9433,7 +11198,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["table", "wysiwyg"],
+        "tags": [
+          "table",
+          "wysiwyg"
+        ],
         "defaultCode": 60017,
         "grid": 16
       },
@@ -9458,7 +11226,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["insert-template", "wysiwyg"],
+        "tags": [
+          "insert-template",
+          "wysiwyg"
+        ],
         "defaultCode": 60018,
         "grid": 16
       },
@@ -9483,7 +11254,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["pilcrow", "wysiwyg"],
+        "tags": [
+          "pilcrow",
+          "wysiwyg"
+        ],
         "defaultCode": 60019,
         "grid": 16
       },
@@ -9508,7 +11282,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["ltr", "wysiwyg", "left-to-right", "direction"],
+        "tags": [
+          "ltr",
+          "wysiwyg",
+          "left-to-right",
+          "direction"
+        ],
         "defaultCode": 60020,
         "grid": 16
       },
@@ -9533,7 +11312,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["rtl", "wysiwyg", "right-to-left", "direction"],
+        "tags": [
+          "rtl",
+          "wysiwyg",
+          "right-to-left",
+          "direction"
+        ],
         "defaultCode": 60021,
         "grid": 16
       },
@@ -9558,7 +11342,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["section", "wysiwyg"],
+        "tags": [
+          "section",
+          "wysiwyg"
+        ],
         "defaultCode": 60022,
         "grid": 16
       },
@@ -9583,7 +11370,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["paragraph-left", "wysiwyg", "align-left", "left"],
+        "tags": [
+          "paragraph-left",
+          "wysiwyg",
+          "align-left",
+          "left"
+        ],
         "defaultCode": 60023,
         "grid": 16
       },
@@ -9608,7 +11400,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["paragraph-center", "wysiwyg", "align-center", "center"],
+        "tags": [
+          "paragraph-center",
+          "wysiwyg",
+          "align-center",
+          "center"
+        ],
         "defaultCode": 60024,
         "grid": 16
       },
@@ -9633,7 +11430,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["paragraph-right", "wysiwyg", "align-right", "right"],
+        "tags": [
+          "paragraph-right",
+          "wysiwyg",
+          "align-right",
+          "right"
+        ],
         "defaultCode": 60025,
         "grid": 16
       },
@@ -9658,7 +11460,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["paragraph-justify", "wysiwyg", "justify"],
+        "tags": [
+          "paragraph-justify",
+          "wysiwyg",
+          "justify"
+        ],
         "defaultCode": 60026,
         "grid": 16
       },
@@ -9683,7 +11489,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["indent-increase", "wysiwyg"],
+        "tags": [
+          "indent-increase",
+          "wysiwyg"
+        ],
         "defaultCode": 60027,
         "grid": 16
       },
@@ -9708,7 +11517,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["indent-decrease", "wysiwyg"],
+        "tags": [
+          "indent-decrease",
+          "wysiwyg"
+        ],
         "defaultCode": 60028,
         "grid": 16
       },
@@ -9733,7 +11545,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["share", "out", "external", "outside"],
+        "tags": [
+          "share",
+          "out",
+          "external",
+          "outside"
+        ],
         "defaultCode": 60029,
         "grid": 16
       },
@@ -9759,7 +11576,15 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["new-tab", "out", "external", "outside", "popout", "link", "blank"],
+        "tags": [
+          "new-tab",
+          "out",
+          "external",
+          "outside",
+          "popout",
+          "link",
+          "blank"
+        ],
         "defaultCode": 60030,
         "grid": 16
       },
@@ -9785,7 +11610,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["embed", "code", "html", "xml"],
+        "tags": [
+          "embed",
+          "code",
+          "html",
+          "xml"
+        ],
         "defaultCode": 60031,
         "grid": 16
       },
@@ -9813,7 +11643,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["embed", "code", "html", "xml"],
+        "tags": [
+          "embed",
+          "code",
+          "html",
+          "xml"
+        ],
         "defaultCode": 60032,
         "grid": 16
       },
@@ -9838,7 +11673,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["terminal", "console", "cmd", "command-line"],
+        "tags": [
+          "terminal",
+          "console",
+          "cmd",
+          "command-line"
+        ],
         "defaultCode": 60033,
         "grid": 16
       },
@@ -9863,7 +11703,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["share", "social"],
+        "tags": [
+          "share",
+          "social"
+        ],
         "defaultCode": 60034,
         "grid": 16
       },
@@ -10026,7 +11869,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["amazon", "brand"],
+        "tags": [
+          "amazon",
+          "brand"
+        ],
         "defaultCode": 60039,
         "grid": 16
       },
@@ -10051,7 +11897,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["google", "brand"],
+        "tags": [
+          "google",
+          "brand"
+        ],
         "defaultCode": 60040,
         "grid": 16
       },
@@ -10076,7 +11925,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["google", "brand"],
+        "tags": [
+          "google",
+          "brand"
+        ],
         "defaultCode": 60041,
         "grid": 16
       },
@@ -10101,7 +11953,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["google", "brand"],
+        "tags": [
+          "google",
+          "brand"
+        ],
         "defaultCode": 60042,
         "grid": 16
       },
@@ -10127,7 +11982,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["google-plus", "brand", "social"],
+        "tags": [
+          "google-plus",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60043,
         "grid": 16
       },
@@ -10152,7 +12011,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["google-plus", "brand", "social"],
+        "tags": [
+          "google-plus",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60044,
         "grid": 16
       },
@@ -10177,7 +12040,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["google-plus", "brand", "social"],
+        "tags": [
+          "google-plus",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60045,
         "grid": 16
       },
@@ -10202,7 +12069,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["hangouts", "brand", "social"],
+        "tags": [
+          "hangouts",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60046,
         "grid": 16
       },
@@ -10229,7 +12100,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["google-drive", "brand"],
+        "tags": [
+          "google-drive",
+          "brand"
+        ],
         "defaultCode": 60047,
         "grid": 16
       },
@@ -10254,7 +12128,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["facebook", "brand", "social"],
+        "tags": [
+          "facebook",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60048,
         "grid": 16
       },
@@ -10279,7 +12157,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["facebook", "brand", "social"],
+        "tags": [
+          "facebook",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60049,
         "grid": 16
       },
@@ -10306,7 +12188,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["instagram", "brand", "social"],
+        "tags": [
+          "instagram",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60050,
         "grid": 16
       },
@@ -10331,7 +12217,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["whatsapp", "brand", "social"],
+        "tags": [
+          "whatsapp",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60051,
         "grid": 16
       },
@@ -10356,7 +12246,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["spotify", "brand", "social"],
+        "tags": [
+          "spotify",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60052,
         "grid": 16
       },
@@ -10381,7 +12275,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["telegram", "brand", "social"],
+        "tags": [
+          "telegram",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60053,
         "grid": 16
       },
@@ -10406,7 +12304,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["twitter", "brand", "tweet", "social"],
+        "tags": [
+          "twitter",
+          "brand",
+          "tweet",
+          "social"
+        ],
         "defaultCode": 60054,
         "grid": 16
       },
@@ -10431,7 +12334,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["vine", "brand", "social"],
+        "tags": [
+          "vine",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60055,
         "grid": 16
       },
@@ -10456,7 +12363,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["vk", "brand", "social"],
+        "tags": [
+          "vk",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60056,
         "grid": 16
       },
@@ -10483,7 +12394,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["renren", "brand", "social"],
+        "tags": [
+          "renren",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60057,
         "grid": 16
       },
@@ -10511,7 +12426,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["sina-weibo", "brand", "social"],
+        "tags": [
+          "sina-weibo",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60058,
         "grid": 16
       },
@@ -10536,7 +12455,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["feed", "rss", "social"],
+        "tags": [
+          "feed",
+          "rss",
+          "social"
+        ],
         "defaultCode": 60059,
         "grid": 16
       },
@@ -10561,7 +12484,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["feed", "rss", "social"],
+        "tags": [
+          "feed",
+          "rss",
+          "social"
+        ],
         "defaultCode": 60060,
         "grid": 16
       },
@@ -10586,7 +12513,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["youtube", "brand", "social"],
+        "tags": [
+          "youtube",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60061,
         "grid": 16
       },
@@ -10617,7 +12548,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["youtube", "brand", "social"],
+        "tags": [
+          "youtube",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60062,
         "grid": 16
       },
@@ -10644,7 +12579,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["twitch", "brand", "social"],
+        "tags": [
+          "twitch",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60063,
         "grid": 16
       },
@@ -10669,7 +12608,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["vimeo", "brand", "social"],
+        "tags": [
+          "vimeo",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60064,
         "grid": 16
       },
@@ -10694,7 +12637,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["vimeo", "brand", "social"],
+        "tags": [
+          "vimeo",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60065,
         "grid": 16
       },
@@ -10719,7 +12666,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["lanyrd", "brand"],
+        "tags": [
+          "lanyrd",
+          "brand"
+        ],
         "defaultCode": 60066,
         "grid": 16
       },
@@ -10744,7 +12694,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["flickr", "brand", "social"],
+        "tags": [
+          "flickr",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60067,
         "grid": 16
       },
@@ -10769,7 +12723,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["flickr", "brand", "social"],
+        "tags": [
+          "flickr",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60068,
         "grid": 16
       },
@@ -10794,7 +12752,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["flickr", "brand", "social"],
+        "tags": [
+          "flickr",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60069,
         "grid": 16
       },
@@ -10819,7 +12781,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["flickr", "brand", "social"],
+        "tags": [
+          "flickr",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60070,
         "grid": 16
       },
@@ -10844,7 +12810,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["dribbble", "brand", "social"],
+        "tags": [
+          "dribbble",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60071,
         "grid": 16
       },
@@ -10871,7 +12841,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["behance", "brand", "social"],
+        "tags": [
+          "behance",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60072,
         "grid": 16
       },
@@ -10899,7 +12873,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["behance", "brand", "social"],
+        "tags": [
+          "behance",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60073,
         "grid": 16
       },
@@ -10924,7 +12902,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["deviantart", "brand", "social"],
+        "tags": [
+          "deviantart",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60074,
         "grid": 16
       },
@@ -10949,7 +12931,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["500px", "brand", "social"],
+        "tags": [
+          "500px",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60075,
         "grid": 16
       },
@@ -10974,7 +12960,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["steam", "brand", "social"],
+        "tags": [
+          "steam",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60076,
         "grid": 16
       },
@@ -10999,7 +12989,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["steam", "brand", "social"],
+        "tags": [
+          "steam",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60077,
         "grid": 16
       },
@@ -11028,7 +13022,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["dropbox", "brand"],
+        "tags": [
+          "dropbox",
+          "brand"
+        ],
         "defaultCode": 60078,
         "grid": 16
       },
@@ -11053,7 +13050,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["onedrive", "brand", "skydrive"],
+        "tags": [
+          "onedrive",
+          "brand",
+          "skydrive"
+        ],
         "defaultCode": 60079,
         "grid": 16
       },
@@ -11078,7 +13079,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["github", "brand", "octacat", "social"],
+        "tags": [
+          "github",
+          "brand",
+          "octacat",
+          "social"
+        ],
         "defaultCode": 60080,
         "grid": 16
       },
@@ -11097,11 +13103,16 @@
     },
     {
       "icon": {
-        "paths": ["M0 0v1024h1024v-1024h-1024zM832 832h-128v-512h-192v512h-320v-640h640v640z"],
+        "paths": [
+          "M0 0v1024h1024v-1024h-1024zM832 832h-128v-512h-192v512h-320v-640h640v640z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["npm", "brand"],
+        "tags": [
+          "npm",
+          "brand"
+        ],
         "defaultCode": 60081,
         "grid": 16
       },
@@ -11126,7 +13137,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["basecamp", "brand"],
+        "tags": [
+          "basecamp",
+          "brand"
+        ],
         "defaultCode": 60082,
         "grid": 16
       },
@@ -11151,7 +13165,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["trello", "brand"],
+        "tags": [
+          "trello",
+          "brand"
+        ],
         "defaultCode": 60083,
         "grid": 16
       },
@@ -11176,7 +13193,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["wordpress", "brand", "social", "cms"],
+        "tags": [
+          "wordpress",
+          "brand",
+          "social",
+          "cms"
+        ],
         "defaultCode": 60084,
         "grid": 16
       },
@@ -11201,7 +13223,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["joomla", "brand", "cms"],
+        "tags": [
+          "joomla",
+          "brand",
+          "cms"
+        ],
         "defaultCode": 60085,
         "grid": 16
       },
@@ -11226,7 +13252,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["ello", "brand", "social"],
+        "tags": [
+          "ello",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60086,
         "grid": 16
       },
@@ -11251,7 +13281,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["blogger", "brand", "social"],
+        "tags": [
+          "blogger",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60087,
         "grid": 16
       },
@@ -11278,7 +13312,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["blogger", "brand", "social"],
+        "tags": [
+          "blogger",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60088,
         "grid": 16
       },
@@ -11303,7 +13341,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["tumblr", "brand", "social"],
+        "tags": [
+          "tumblr",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60089,
         "grid": 16
       },
@@ -11328,7 +13370,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["tumblr", "brand", "social"],
+        "tags": [
+          "tumblr",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60090,
         "grid": 16
       },
@@ -11353,7 +13399,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["yahoo", "brand", "social"],
+        "tags": [
+          "yahoo",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60091,
         "grid": 16
       },
@@ -11378,7 +13428,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["yahoo"],
+        "tags": [
+          "yahoo"
+        ],
         "defaultCode": 60092,
         "grid": 16
       },
@@ -11403,7 +13455,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["tux", "brand", "linux"],
+        "tags": [
+          "tux",
+          "brand",
+          "linux"
+        ],
         "defaultCode": 60093,
         "grid": 16
       },
@@ -11428,7 +13484,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["apple", "brand"],
+        "tags": [
+          "apple",
+          "brand"
+        ],
         "defaultCode": 60094,
         "grid": 16
       },
@@ -11464,7 +13523,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["finder", "brand", "mac", "os"],
+        "tags": [
+          "finder",
+          "brand",
+          "mac",
+          "os"
+        ],
         "defaultCode": 60095,
         "grid": 16
       },
@@ -11490,7 +13554,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["android", "brand", "os", "mobile"],
+        "tags": [
+          "android",
+          "brand",
+          "os",
+          "mobile"
+        ],
         "defaultCode": 60096,
         "grid": 16
       },
@@ -11515,7 +13584,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["windows", "brand", "os"],
+        "tags": [
+          "windows",
+          "brand",
+          "os"
+        ],
         "defaultCode": 60097,
         "grid": 16
       },
@@ -11540,7 +13613,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["windows8", "brand", "os"],
+        "tags": [
+          "windows8",
+          "brand",
+          "os"
+        ],
         "defaultCode": 60098,
         "grid": 16
       },
@@ -11565,7 +13642,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["soundcloud", "brand", "social"],
+        "tags": [
+          "soundcloud",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60099,
         "grid": 16
       },
@@ -11590,7 +13671,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["soundcloud", "brand", "social"],
+        "tags": [
+          "soundcloud",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60100,
         "grid": 16
       },
@@ -11619,7 +13704,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["skype", "brand", "social"],
+        "tags": [
+          "skype",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60101,
         "grid": 16
       },
@@ -11644,7 +13733,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["reddit", "brand", "social"],
+        "tags": [
+          "reddit",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60102,
         "grid": 16
       },
@@ -11669,7 +13762,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["hackernews", "brand", "ycombinator", "yc", "social"],
+        "tags": [
+          "hackernews",
+          "brand",
+          "ycombinator",
+          "yc",
+          "social"
+        ],
         "defaultCode": 60103,
         "grid": 16
       },
@@ -11694,7 +13793,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["wikipedia", "brand"],
+        "tags": [
+          "wikipedia",
+          "brand"
+        ],
         "defaultCode": 60104,
         "grid": 16
       },
@@ -11719,7 +13821,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["linkedin", "brand", "social"],
+        "tags": [
+          "linkedin",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60105,
         "grid": 16
       },
@@ -11746,7 +13852,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["linkedin", "brand", "social"],
+        "tags": [
+          "linkedin",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60106,
         "grid": 16
       },
@@ -11771,7 +13881,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["lastfm", "brand", "social"],
+        "tags": [
+          "lastfm",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60107,
         "grid": 16
       },
@@ -11796,7 +13910,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["lastfm", "brand", "social"],
+        "tags": [
+          "lastfm",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60108,
         "grid": 16
       },
@@ -11815,11 +13933,17 @@
     },
     {
       "icon": {
-        "paths": ["M0 0v1024h1024v-1024h-1024zM512 960v-448h-448v-448h448v448h448v448h-448z"],
+        "paths": [
+          "M0 0v1024h1024v-1024h-1024zM512 960v-448h-448v-448h448v448h448v448h-448z"
+        ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["delicious", "brand", "social"],
+        "tags": [
+          "delicious",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60109,
         "grid": 16
       },
@@ -11845,7 +13969,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["stumbleupon", "brand", "social"],
+        "tags": [
+          "stumbleupon",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60110,
         "grid": 16
       },
@@ -11870,7 +13998,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["stumbleupon", "brand", "social"],
+        "tags": [
+          "stumbleupon",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60111,
         "grid": 16
       },
@@ -11895,7 +14027,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["stackoverflow", "brand", "social"],
+        "tags": [
+          "stackoverflow",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60112,
         "grid": 16
       },
@@ -11920,7 +14056,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["pinterest", "brand", "social"],
+        "tags": [
+          "pinterest",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60113,
         "grid": 16
       },
@@ -11945,7 +14085,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["pinterest", "brand", "social"],
+        "tags": [
+          "pinterest",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60114,
         "grid": 16
       },
@@ -11970,7 +14114,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["xing", "brand", "social"],
+        "tags": [
+          "xing",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60115,
         "grid": 16
       },
@@ -11996,7 +14144,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["xing", "brand", "social"],
+        "tags": [
+          "xing",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60116,
         "grid": 16
       },
@@ -12004,7 +14156,9 @@
       "properties": {
         "ligatures": "xing2, brand75",
         "name": "xing2",
-        "codes": [61231],
+        "codes": [
+          61231
+        ],
         "id": 468,
         "order": 470,
         "prevSize": 32,
@@ -12022,7 +14176,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["flattr", "brand", "donate", "social"],
+        "tags": [
+          "flattr",
+          "brand",
+          "donate",
+          "social"
+        ],
         "defaultCode": 60117,
         "grid": 16
       },
@@ -12047,7 +14206,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["foursquare", "brand", "social"],
+        "tags": [
+          "foursquare",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60118,
         "grid": 16
       },
@@ -12072,7 +14235,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["yelp", "brand", "social"],
+        "tags": [
+          "yelp",
+          "brand",
+          "social"
+        ],
         "defaultCode": 60119,
         "grid": 16
       },
@@ -12098,7 +14265,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["paypal", "brand", "donate"],
+        "tags": [
+          "paypal",
+          "brand",
+          "donate"
+        ],
         "defaultCode": 60120,
         "grid": 16
       },
@@ -12106,7 +14277,9 @@
       "properties": {
         "ligatures": "paypal, brand79",
         "name": "paypal",
-        "codes": [61234],
+        "codes": [
+          61234
+        ],
         "id": 472,
         "order": 474,
         "prevSize": 32,
@@ -12124,7 +14297,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["chrome", "browser", "internet", "brand"],
+        "tags": [
+          "chrome",
+          "browser",
+          "internet",
+          "brand"
+        ],
         "defaultCode": 60121,
         "grid": 16
       },
@@ -12149,7 +14327,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["firefox", "browser", "internet", "brand"],
+        "tags": [
+          "firefox",
+          "browser",
+          "internet",
+          "brand"
+        ],
         "defaultCode": 60122,
         "grid": 16
       },
@@ -12174,7 +14357,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["IE", "browser", "internet-explorer", "brand"],
+        "tags": [
+          "IE",
+          "browser",
+          "internet-explorer",
+          "brand"
+        ],
         "defaultCode": 60123,
         "grid": 16
       },
@@ -12199,7 +14387,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["edge", "browser", "brand"],
+        "tags": [
+          "edge",
+          "browser",
+          "brand"
+        ],
         "defaultCode": 60124,
         "grid": 16
       },
@@ -12256,7 +14448,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["safari", "browser", "internet", "brand"],
+        "tags": [
+          "safari",
+          "browser",
+          "internet",
+          "brand"
+        ],
         "defaultCode": 60125,
         "grid": 16
       },
@@ -12282,7 +14479,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["opera", "browser", "internet", "brand"],
+        "tags": [
+          "opera",
+          "browser",
+          "internet",
+          "brand"
+        ],
         "defaultCode": 60126,
         "grid": 16
       },
@@ -12308,7 +14510,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["file-pdf", "file", "file-format"],
+        "tags": [
+          "file-pdf",
+          "file",
+          "file-format"
+        ],
         "defaultCode": 60127,
         "grid": 16
       },
@@ -12334,7 +14540,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["file-openoffice", "file", "file-format"],
+        "tags": [
+          "file-openoffice",
+          "file",
+          "file-format"
+        ],
         "defaultCode": 60128,
         "grid": 16
       },
@@ -12360,7 +14570,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["file-word", "file", "file-format", "word", "docx"],
+        "tags": [
+          "file-word",
+          "file",
+          "file-format",
+          "word",
+          "docx"
+        ],
         "defaultCode": 60129,
         "grid": 16
       },
@@ -12386,7 +14602,12 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["file-excel", "file", "file-format", "xlc"],
+        "tags": [
+          "file-excel",
+          "file",
+          "file-format",
+          "xlc"
+        ],
         "defaultCode": 60130,
         "grid": 16
       },
@@ -12411,7 +14632,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["libreoffice", "file", "file-format"],
+        "tags": [
+          "libreoffice",
+          "file",
+          "file-format"
+        ],
         "defaultCode": 60131,
         "grid": 16
       },
@@ -12436,7 +14661,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["html-five", "w3c"],
+        "tags": [
+          "html-five",
+          "w3c"
+        ],
         "defaultCode": 60132,
         "grid": 16
       },
@@ -12461,7 +14689,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["html-five", "w3c"],
+        "tags": [
+          "html-five",
+          "w3c"
+        ],
         "defaultCode": 60133,
         "grid": 16
       },
@@ -12486,7 +14717,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["css3", "w3c"],
+        "tags": [
+          "css3",
+          "w3c"
+        ],
         "defaultCode": 60134,
         "grid": 16
       },
@@ -12511,7 +14745,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["git", "brand"],
+        "tags": [
+          "git",
+          "brand"
+        ],
         "defaultCode": 60135,
         "grid": 16
       },
@@ -12536,7 +14773,10 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["codepen", "brand"],
+        "tags": [
+          "codepen",
+          "brand"
+        ],
         "defaultCode": 60136,
         "grid": 16
       },
@@ -12561,7 +14801,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["svg"],
+        "tags": [
+          "svg"
+        ],
         "defaultCode": 60137,
         "grid": 16
       },
@@ -12586,7 +14828,11 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["IcoMoon", "icomoon", "brand"],
+        "tags": [
+          "IcoMoon",
+          "icomoon",
+          "brand"
+        ],
         "defaultCode": 60138,
         "grid": 16
       },
