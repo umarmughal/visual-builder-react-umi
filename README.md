@@ -1,4 +1,4 @@
-### Visual Builder React (create-react-app) ###
+### Visual Builder React (umijs) ###
 * https://react.visualbuilder.cloud/
 * https://umijs.org/
 
