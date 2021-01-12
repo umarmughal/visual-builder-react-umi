@@ -1,6 +1,6 @@
 const { GET_BETWEEN_JSON, REPLACE_BETWEEN } = require('../utils/io')
 
-const settingsFile = 'src/redux/settings/reducers.js'
+const settingsFile = 'src/models/settings.js'
 
 module.exports = (settings) => {
   // get settings
