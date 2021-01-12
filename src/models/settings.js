@@ -33,7 +33,7 @@ export default {
       authPagesColor: 'gray',
       isAuthTopbar: true,
       primaryColor: '#4b7cf3',
-      leftMenuWidth: '256',
+      leftMenuWidth: 256,
       isMenuUnfixed: false,
       isMenuShadow: false,
       isTopbarFixed: false,
@@ -68,38 +68,16 @@ export default {
         },
       })
     },
-    *SET_PRIMARY_COLOR({ payload: { color } }, { put }) {
-      const addStyles = () => {
-        const styleElement = document.querySelector('#primaryColor')
-        if (styleElement) {
-          styleElement.remove()
-        }
-        const body = document.querySelector('body')
-        const styleEl = document.createElement('style')
-        const css = document.createTextNode(`:root { --kit-color-primary: ${color};}`)
-        styleEl.setAttribute('id', 'primaryColor')
-        styleEl.appendChild(css)
-        body.appendChild(styleEl)
-      }
-
-      yield addStyles()
-      yield store.set(`app.settings.primaryColor`, color)
-      yield put({
-        type: 'SET_STATE',
-        payload: {
-          primaryColor: color,
-        },
+    *CHANGE_SETTING_BULK({ payload }, { put }) {
+      const settings = {}
+      Object.keys(payload).forEach((key) => {
+        store.set(`app.settings.${key}`, payload[key])
+        settings[key] = payload[key]
       })
-    },
-    *SET_THEME({ payload: { theme } }, { put }) {
-      const nextTheme = theme === 'dark' ? 'dark' : 'default'
-      yield document.querySelector('html').setAttribute('data-kit-theme', nextTheme)
-      yield store.set(`app.settings.theme`, nextTheme)
+
       yield put({
         type: 'SET_STATE',
-        payload: {
-          theme: nextTheme,
-        },
+        payload: { ...settings },
       })
     },
   },
@@ -121,15 +99,6 @@ export default {
               value = query[key]
               break
           }
-          if (key === 'theme') {
-            dispatch({
-              type: 'SET_THEME',
-              payload: {
-                theme: value,
-              },
-            })
-            return
-          }
           dispatch({
             type: 'CHANGE_SETTING',
             payload: {
@@ -144,34 +113,6 @@ export default {
         const { search } = params
         changeSettings(search)
       })
-
-      // set primary color on app load
-      const primaryColor = () => {
-        const color = store.get('app.settings.primaryColor')
-        if (color) {
-          dispatch({
-            type: 'SET_PRIMARY_COLOR',
-            payload: {
-              color,
-            },
-          })
-        }
-      }
-      primaryColor()
-
-      // init theme on app load
-      const initTheme = () => {
-        const { search } = history.location
-        const query = qs.parse(search, { ignoreQueryPrefix: true })
-        const theme = query.theme || store.get('app.settings.theme') || 'default'
-        dispatch({
-          type: 'SET_THEME',
-          payload: {
-            theme: 'default',
-          },
-        })
-      }
-      initTheme()
 
       // detect isMobileView setting on app load and window resize
       const isMobileView = (load = false) => {
