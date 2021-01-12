@@ -1,6 +1,6 @@
 {
-  "name": "cleanui-admin-template-react-umi",
-  "version": "3.3.0",
+  "name": "visual-builder-react-umi",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "umi dev",
