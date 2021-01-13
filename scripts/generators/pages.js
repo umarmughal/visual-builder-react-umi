@@ -110,7 +110,7 @@ module.exports = (config, content) => {
             'import ' +
             folder +
             name +
-            " from '@vb/widgets/" +
+            " from '@/@vb/widgets/" +
             folder +
             '/' +
             name +

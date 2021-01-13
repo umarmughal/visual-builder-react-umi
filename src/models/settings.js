@@ -16,11 +16,10 @@ export default {
     ...STORED_SETTINGS({
       // Read docs for available values: https://docs.visualbuilder.cloud
       // VB:REPLACE-START:SETTINGS
-      authProvider: 'jwt', // firebase, jwt
+      authProvider: 'jwt',
       logo: 'Visual Builder',
-      version: 'fluent', // fluent, clean, air
-      theme: 'default', // default, dark
-      // locale: 'en-US',
+      version: 'fluent',
+      theme: 'default',
       isSidebarOpen: false,
       isSupportChatOpen: false,
       isMobileView: false,
@@ -28,10 +27,10 @@ export default {
       isMenuCollapsed: false,
       isPreselectedOpen: false,
       preselectedVariant: 'default',
-      menuLayoutType: 'left', // left, top
-      routerAnimation: 'slide-fadein-up', // none, slide-fadein-up, slide-fadein-right, fadein, zoom-fadein
-      menuColor: 'gray', // white, dark, gray
-      authPagesColor: 'gray', // white, gray, image
+      menuLayoutType: 'left',
+      routerAnimation: 'slide-fadein-up',
+      menuColor: 'gray',
+      authPagesColor: 'gray',
       isAuthTopbar: true,
       primaryColor: '#4b7cf3',
       leftMenuWidth: 256,
@@ -46,12 +45,12 @@ export default {
       isCardShadow: true,
       isSquaredBorders: false,
       isBorderless: false,
-      layoutMenu: 'classic', // classic, flyout, simply
-      layoutTopbar: 'v1', // v1
-      layoutBreadcrumbs: 'v1', // v1, v2
-      layoutFooter: 'v1', // v1, v2, v3, v4
-      flyoutMenuType: 'flyout', // flyout, default, compact
-      flyoutMenuColor: 'blue', // dark, blue, gray, white
+      layoutMenu: 'classic',
+      layoutTopbar: 'v1',
+      layoutBreadcrumbs: 'v1',
+      layoutFooter: 'v1',
+      flyoutMenuType: 'flyout',
+      flyoutMenuColor: 'blue',
 
       // VB:REPLACE-END:SETTINGS
     }),
@@ -69,38 +68,16 @@ export default {
         },
       })
     },
-    *SET_PRIMARY_COLOR({ payload: { color } }, { put }) {
-      const addStyles = () => {
-        const styleElement = document.querySelector('#primaryColor')
-        if (styleElement) {
-          styleElement.remove()
-        }
-        const body = document.querySelector('body')
-        const styleEl = document.createElement('style')
-        const css = document.createTextNode(`:root { --kit-color-primary: ${color};}`)
-        styleEl.setAttribute('id', 'primaryColor')
-        styleEl.appendChild(css)
-        body.appendChild(styleEl)
-      }
-
-      yield addStyles()
-      yield store.set(`app.settings.primaryColor`, color)
-      yield put({
-        type: 'SET_STATE',
-        payload: {
-          primaryColor: color,
-        },
+    *CHANGE_SETTING_BULK({ payload }, { put }) {
+      const settings = {}
+      Object.keys(payload).forEach((key) => {
+        store.set(`app.settings.${key}`, payload[key])
+        settings[key] = payload[key]
       })
-    },
-    *SET_THEME({ payload: { theme } }, { put }) {
-      const nextTheme = theme === 'dark' ? 'dark' : 'default'
-      yield document.querySelector('html').setAttribute('data-kit-theme', nextTheme)
-      yield store.set(`app.settings.theme`, nextTheme)
+
       yield put({
         type: 'SET_STATE',
-        payload: {
-          theme: nextTheme,
-        },
+        payload: { ...settings },
       })
     },
   },
@@ -122,15 +99,6 @@ export default {
               value = query[key]
               break
           }
-          if (key === 'theme') {
-            dispatch({
-              type: 'SET_THEME',
-              payload: {
-                theme: value,
-              },
-            })
-            return
-          }
           dispatch({
             type: 'CHANGE_SETTING',
             payload: {
@@ -145,34 +113,6 @@ export default {
         const { search } = params
         changeSettings(search)
       })
-
-      // set primary color on app load
-      const primaryColor = () => {
-        const color = store.get('app.settings.primaryColor')
-        if (color) {
-          dispatch({
-            type: 'SET_PRIMARY_COLOR',
-            payload: {
-              color,
-            },
-          })
-        }
-      }
-      primaryColor()
-
-      // init theme on app load
-      const initTheme = () => {
-        const { search } = history.location
-        const query = qs.parse(search, { ignoreQueryPrefix: true })
-        const theme = query.theme || store.get('app.settings.theme') || 'default'
-        dispatch({
-          type: 'SET_THEME',
-          payload: {
-            theme: 'default',
-          },
-        })
-      }
-      initTheme()
 
       // detect isMobileView setting on app load and window resize
       const isMobileView = (load = false) => {

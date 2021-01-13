@@ -1,6 +1,6 @@
 const { REPLACE_NEXT_LINE, REPLACE_BETWEEN } = require('../utils/io')
 
-const routerFile = 'src/router.js'
+const routerFile = 'src/pages/index.js'
 
 const routeTpl = (route) => `{
   path: '${route.url}',
@@ -9,38 +9,21 @@ const routeTpl = (route) => `{
 },\n`
 
 module.exports = (config) => {
-  // prepare data
+  // find redirectTo
   let redirectTo
-  const convert = (data) => {
-    let temp = ``
-    data.forEach((item) => {
-      if (item.category || item.url === '/auth') {
-        return
-      }
-      if (!redirectTo) {
-        redirectTo = process.env.REDIRECT_URL || item.url
-      }
-      temp = temp + routeTpl(item)
-      if (item.children) {
-        temp = temp + convert(item.children)
-      }
-    })
-    return temp
-  }
-  const code = convert(config)
+  config.forEach((item) => {
+    if (item.category || item.url === '/auth') {
+      return
+    }
+    if (!redirectTo) {
+      redirectTo = process.env.REDIRECT_URL || item.url
+    }
+  })
 
   // replace redirectTo
   REPLACE_NEXT_LINE(
     routerFile,
     `VB:REPLACE-NEXT-LINE:ROUTER-REDIRECT`,
-    `<Route exact path="/" render={() => <Redirect to="${redirectTo}" />} />`,
-  )
-
-  // replace routes
-  REPLACE_BETWEEN(
-    routerFile,
-    `VB:REPLACE-START:ROUTER-CONFIG`,
-    `VB:REPLACE-END:ROUTER-CONFIG`,
-    code,
+    `return <Redirect to="${redirectTo}" />`,
   )
 }

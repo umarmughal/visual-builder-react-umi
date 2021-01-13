@@ -1,14 +1,13 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
 
-const DashboardAlpha = () => {
+const Dashboard = () => {
   return (
     <div>
-      <Helmet title="Dashboard Analytics" />
-      123
+      <Helmet title="Dashboard" />
       <div />
     </div>
   )
 }
 
-export default DashboardAlpha
+export default Dashboard

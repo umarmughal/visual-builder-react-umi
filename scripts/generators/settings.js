@@ -1,6 +1,6 @@
 const { GET_BETWEEN_JSON, REPLACE_BETWEEN } = require('../utils/io')
 
-const settingsFile = 'src/redux/settings/reducers.js'
+const settingsFile = 'src/models/settings.js'
 
 module.exports = (settings) => {
   // get settings
@@ -17,7 +17,8 @@ module.exports = (settings) => {
   let code = ``
   Object.keys(settingsUpdated).forEach((key) => {
     const v = settingsUpdated[key]
-    code = code + `${key}: ${typeof v === 'boolean' ? v : `'${v}'`},\n`
+    const b = typeof v === 'boolean' || typeof v === 'number' ? v : `'${v}'`
+    code = code + `${key}: ${b},\n`
   })
 
   // replace settings

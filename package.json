@@ -1,6 +1,6 @@
 {
-  "name": "cleanui-admin-template-react-umi",
-  "version": "3.3.0",
+  "name": "visual-builder-react-umi",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "umi dev",
@@ -40,6 +40,7 @@
     "chartist": "^0.11.4",
     "chartist-plugin-tooltips-updated": "^0.1.2",
     "classnames": "^2.2.6",
+    "cli-select": "^1.1.2",
     "connected-react-router": "^6.8.0",
     "d3-dsv": "^1.2.0",
     "d3-format": "^1.4.4",
@@ -86,10 +87,10 @@
     "@umijs/test": "^3.3.4",
     "lint-staged": "^10.0.8",
     "prettier": "^2.2.1",
-    "umi": "^3.3.4",
-    "yorkie": "^2.0.0",
     "stylelint": "^13.2.0",
     "stylelint-config-prettier": "^5.2.0",
-    "stylelint-config-standard": "^18.3.0"
+    "stylelint-config-standard": "^18.3.0",
+    "umi": "^3.3.4",
+    "yorkie": "^2.0.0"
   }
 }

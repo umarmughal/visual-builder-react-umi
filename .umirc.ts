@@ -9,7 +9,7 @@ export default defineConfig({
   },
   locale: {
     default: 'en-US',
-    baseNavigator: true,
+    baseNavigator: false,
     title: false,
   },
   antd: false, // antd styles loads via less imports in src/styleLoader.js
