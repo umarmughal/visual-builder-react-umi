@@ -39,7 +39,7 @@ export default {
     avatar: '',
     authorized: false,
     loading: false,
-    ...DEV, // remove it, used for demo build
+    // ...DEV, // remove it, used for demo build
   },
   reducers: {
     SET_STATE: (state, { payload }) => ({ ...state, ...payload }),
@@ -55,6 +55,7 @@ export default {
       })
       const { authProvider: autProviderName } = yield select((state) => state.settings)
       const success = yield call(mapAuthProviders[autProviderName].login, email, password)
+      console.log(success)
       if (success) {
         yield put({
           type: 'LOAD_CURRENT_ACCOUNT',

@@ -1,3 +1,6 @@
+// mocking api
+import '@/services/axios/fakeApi'
+
 // antd core & themes styles
 import 'antd/lib/style/index.less'
 import './@vb/css/vendors/antd/themes/default.less'
