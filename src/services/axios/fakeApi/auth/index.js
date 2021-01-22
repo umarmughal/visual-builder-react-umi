@@ -4,8 +4,8 @@ import mock from '../mock'
 const users = [
   {
     id: 1,
-    email: 'demo@sellpixels.com',
-    password: 'demo123',
+    email: 'demo@visualbuilder.cloud',
+    password: 'VisualBuilder',
     name: 'Tom Jones',
     avatar: '',
     role: 'admin',
@@ -17,9 +17,9 @@ const jwtConfig = {
   expiresIn: 1 * 24 * 60 * 60 * 1000,
 }
 
-mock.onPost('/api/auth/login').reply(request => {
+mock.onPost('/api/auth/login').reply((request) => {
   const { email, password } = JSON.parse(request.data)
-  const user = users.find(item => item.email === email && item.password === password)
+  const user = users.find((item) => item.email === email && item.password === password)
   const error = user ? 'Something went wrong.' : 'Login failed, please try again'
 
   if (user) {
@@ -35,9 +35,9 @@ mock.onPost('/api/auth/login').reply(request => {
   return [401, error]
 })
 
-mock.onPost('/api/auth/register').reply(request => {
+mock.onPost('/api/auth/register').reply((request) => {
   const { email, password, name } = JSON.parse(request.data)
-  const isAlreadyRegistered = users.find(user => user.email === email)
+  const isAlreadyRegistered = users.find((user) => user.email === email)
 
   if (!isAlreadyRegistered) {
     const user = {
@@ -62,13 +62,13 @@ mock.onPost('/api/auth/register').reply(request => {
   return [401, 'This email is already in use.']
 })
 
-mock.onGet('/api/auth/account').reply(request => {
+mock.onGet('/api/auth/account').reply((request) => {
   const { AccessToken } = request.headers
   if (AccessToken) {
     const { id } = jwt.verify(AccessToken, jwtConfig.secret)
     const userData = Object.assign(
       {},
-      users.find(item => item.id === id),
+      users.find((item) => item.id === id),
     )
     delete userData.password
     userData.accessToken = jwt.sign({ id: userData.id }, jwtConfig.secret, {
