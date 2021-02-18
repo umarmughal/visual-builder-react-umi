@@ -11,7 +11,7 @@
     "prettier": "prettier --write \"src/**/*.{js,jsx,ts,tsx,scss,less}\"",
     "stylelint": "stylelint \"src/**/*.{scss,less}\"",
     "deploy": "cd .cloudflare/ && wrangler publish",
-    "build-demo": "REACT_APP_AUTHENTICATED=true umi build",
+    "build-demo": "UMI_APP_AUTHENTICATED=true umi build",
     "build-deploy": "yarn vb-full && yarn build-demo && yarn deploy && yarn vb-seed",
     "vb": "node ./scripts/vb.js",
     "vb-full": "REDIRECT_URL=/dashboard/alpha node ./scripts/generate.js --config=config-full.json",

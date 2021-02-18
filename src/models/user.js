@@ -3,7 +3,7 @@ import { notification } from 'antd'
 import * as firebase from '@/services/firebase'
 import * as jwt from '@/services/jwt'
 
-const DEV = process.env.REACT_APP_AUTHENTICATED
+const DEV = process.env.UMI_APP_AUTHENTICATED
   ? {
       id: '1',
       name: 'Tom Jones',
@@ -55,7 +55,6 @@ export default {
       })
       const { authProvider: autProviderName } = yield select((state) => state.settings)
       const success = yield call(mapAuthProviders[autProviderName].login, email, password)
-      console.log(success)
       if (success) {
         yield put({
           type: 'LOAD_CURRENT_ACCOUNT',
