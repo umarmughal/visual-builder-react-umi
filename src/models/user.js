@@ -39,7 +39,7 @@ export default {
     avatar: '',
     authorized: false,
     loading: false,
-    // ...DEV, // remove it, used for demo build
+    ...DEV, // remove it, used for demo build
   },
   reducers: {
     SET_STATE: (state, { payload }) => ({ ...state, ...payload }),
